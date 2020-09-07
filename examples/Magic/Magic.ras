@@ -1,0 +1,271 @@
+
+Game com.wizards.magic
+
+Locations {
+	Deck: Individual Visible,
+	Graveyard: Individual Visible,
+	Battlefield: Individual Visible
+}
+ 
+Turnphases {
+	Untap,
+	Upkeep,
+	Draww,
+	Main,
+	Combat,
+	Main2,
+	End,
+	Cleanup
+}
+
+Properties {
+	Toughness,
+	Power,
+	Flying,
+	Indestructible,
+	Creature,
+	Planeswalker,
+	Enchantment,
+	Instant,
+	Artifact,
+	Sorcery,
+	Land,
+	Swamp,
+	Mountain,
+	Plains,
+	Island,
+	Forest,
+	Wastes,
+	Pirate,
+	Hexproof
+}
+
+Card AdantoVanguard {
+	cost {
+		{ type Card, amount 1, ofproperty Land },
+		{ type Card, amount 1, ofproperty Plains }
+	}
+	property Toughness: 1
+	property Power: 1
+	property Flying
+	property Creature
+	actions {
+		{ 
+			cost {{type Live, amount 4}}
+			gains {
+				{
+					action Card property add Toughness
+					duration {amount 3 phase Cleanup}
+				}
+			}
+		}
+	}
+	sideeffects {
+		{
+			requirement TurnPhase Combat
+			action Card property add Toughness 2
+		}
+	}
+}
+
+Card AdmiralBeckettBrass {
+	cost {
+		{ type Card, amount 1, ofproperty Land },
+		{ type Card, amount 1, ofproperty Swamp },
+		{ type Card, amount 1, ofproperty Island },
+		{ type Card, amount 1, ofproperty Mountain }
+	}
+	property Toughness: 3
+	property Power: 3
+	property Creature
+	property Pirate
+	sideeffects {
+		{
+			requirement LocationCard Deck property Pirate
+			requirement Player me
+			action OtherCard property add Toughness 2
+			action OtherCard property add Power 1
+		}
+	}
+}
+
+Card AirElemental {
+	cost {
+		{ type Card, amount 3, ofproperty Land },
+		{ type Card, amount 1, ofproperty Island }
+	}
+	property Toughness: 4
+	property Power: 4
+	property Flying
+	property Creature
+}
+
+Card AncientBrontodon {
+	cost {
+		{ type Card, amount 6, ofproperty Land },
+		{ type Card, amount 2, ofproperty Forest }
+	}
+	property Toughness: 9
+	property Power: 9
+	property Creature
+}
+
+Card AngrathsMarauders {
+	cost {
+		{ type Card, amount 5, ofproperty Land },
+		{ type Card, amount 2, ofproperty Mountain }
+	}
+	property Toughness: 4
+	property Power
+	property Creature
+}
+
+Card BelligerentBrontodon {
+	cost {
+		{ type Card, amount 5, ofproperty Land},
+		{ type Card, amount 1, ofproperty Plains},
+		{ type Card, amount 1, ofproperty Forest}
+	}
+	property Creature
+	property Power: 4
+	property Toughness: 6
+}
+
+Card BlightKeeper {
+	cost {
+		{ type Card, amount 1, ofproperty Plains}
+	}
+	property Creature
+	property Power: 1
+	property Toughness: 1
+	property Flying
+	actions {
+		{
+			cost {
+				{type Card, amount 7, ofproperty Land},
+				{type Card, amount 1, ofproperty Plains},
+				{type Card, amount 1, card BlightKeeper}
+			}
+			gains {
+				{ 
+					action Player me gains 4 Live
+					action Player other loses 4 Live
+				}
+			} 
+		}
+	}
+}
+
+Card BlindingFog {
+	cost {
+		{ type Card, amount 2, ofproperty Land},
+		{ type Card, amount 1, ofproperty Forest}
+	}
+	property Instant
+	sideeffects {
+		{
+			requirement Player me
+			requirement OtherCard property Creature
+			action OtherCard property add Hexproof
+		}
+	}
+}
+
+Card DiveDown {
+	cost {
+		{ type Card, amount 2, ofproperty Island}
+	}
+	sideeffects {
+		{
+			requirement Player me
+			requirement OtherCard limit 1
+			action OtherCard property add Toughness 3
+			action OtherCard property add Hexproof
+			duration {
+				amount 1 phase End
+			}
+		}
+	}
+}
+
+Card LoomingAltisaur {
+	cost {
+		{ type Card, amount 3, ofproperty Land},
+		{ type Card, amount 3, ofproperty Plains}
+	}
+	property Creature
+	property Power: 1
+	property Toughness: 7
+}
+
+
+Card PlainsOne {
+	property Land
+	property Plains
+}
+
+Card PlainsTwo {
+	property Land
+	property Plains
+}
+
+Card IslandOne {
+	property Land
+	property Island
+}
+
+Card IslandTwo {
+	property Land
+	property Island
+}
+
+Card SwampOne {
+	property Land
+	property Swamp
+}
+
+Card SwampTwo {
+	property Land
+	property Swamp
+}
+
+Card MountainOne {
+	property Land
+	property Mountain
+}
+
+Card MountainTwo {
+	property Land
+	property Mountain
+}
+
+Card ForestOne {
+	property Land
+	property Forest
+}
+
+Card ForestTwo {
+	property Land
+	property Forest
+}
+
+Card WastesOne {
+	property Land
+	property Wastes
+}
+
+Card WastesTwo {
+	property Land
+	property Wastes
+}
+
+Setup {
+	Player "Alice"
+		Deck {MountainOne, MountainTwo, SwampOne, SwampTwo, DiveDown, AirElemental, BelligerentBrontodon},
+		Graveyard {},
+		Battlefield {}
+	Player "Bob"
+		Deck {PlainsOne, PlainsTwo, IslandOne, IslandTwo, AdantoVanguard, LoomingAltisaur, AdmiralBeckettBrass},
+		Graveyard {},
+		Battlefield {}
+}

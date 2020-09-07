@@ -1,0 +1,44 @@
+
+Game nl.pesten
+
+Locations {
+	Deck: Individual Visible,  
+	DrawingPile: Shared Hidden,  
+	Table: Shared Visible
+}
+
+Properties { 
+	Suit,
+	Number,
+	Pest
+} 
+
+Rules { 
+	{ 
+		name SameSuitOrNumberOrJackOrJoker
+		requirement Card property Suit matches LocationCard Table property Suit or
+					Card property Number matches LocationCard Table property Number or
+					Card property Number matches 11 or // Jack
+					Card property Suit matches 4 // Joker
+	},
+	{
+		name DrawFromDrawingPileToDeckOnly
+		requirement Draw from matches Location DrawingPile
+		requirement Draw to matches Location Deck
+	},
+	{
+		name PlayFromDeckToTableOnly
+		requirement Play from matches Location Deck
+		requirement Play to matches Location Table
+	}
+}  
+
+Card HeartsKing {
+	property Suit: 0 
+	property Number: 13
+}
+
+Card HeartsQueen {
+	property Suit: 0
+	property Number: 12
+}
