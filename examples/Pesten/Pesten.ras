@@ -42,3 +42,412 @@ Card HeartsQueen {
 	property Suit: 0
 	property Number: 12
 }
+
+Card HeartsJack {
+	property Suit: 0
+	property Number: 11
+	property Pest
+	sideeffects {
+		{
+			action Turn next Rule remove SameSuitOrNumberOrJackOrJoker 
+		}
+	}
+}
+
+Card HeartsTen {
+	property Suit: 0
+	property Number: 10
+}
+
+Card HeartsNine {
+	property Suit: 0
+	property Number: 9
+}
+
+Card HeartsEight {
+	property Suit: 0
+	property Number: 8
+	property Pest
+	sideeffects {
+		{
+			action Turn skip
+		}
+	}
+}
+
+Card HeartsSeven {
+	property Suit: 0
+	property Number: 7
+	property Pest
+	sideeffects {
+		{
+			action Turn repeat
+		}
+	}
+}
+
+Card HeartsSix {
+	property Suit: 0
+	property Number: 6
+}
+
+Card HeartsFive {
+	property Suit: 0
+	property Number: 5
+}
+
+Card HeartsFour {
+	property Suit: 0
+	property Number: 4
+}
+
+Card HeartsThree {
+	property Suit: 0
+	property Number: 3
+}
+
+Card HeartsTwo {
+	property Suit: 0
+	property Number: 2
+	property Pest
+	sideeffects {
+		{
+			action Turn next Player take 2
+		}
+	}
+}
+
+Card HeartsAce {
+	property Suit: 0
+	property Number: 1
+	property Pest
+	sideeffects {
+		{
+			action Turn reverse
+		}
+	}
+}
+
+Card SpadesKing {
+	property Suit: 1
+	property Number: 13
+}
+
+Card SpadesQueen {
+	property Suit: 1
+	property Number: 12
+}
+
+Card SpadesJack {
+	property Suit: 1
+	property Number: 11
+	property Pest
+	sideeffects {
+		{
+			action Turn next Rule remove SameSuitOrNumberOrJackOrJoker 
+		}
+	}
+}
+
+Card SpadesTen {
+	property Suit: 1
+	property Number: 10
+}
+
+Card SpadesNine {
+	property Suit: 1
+	property Number: 9
+}
+
+Card SpadesEight {
+	property Suit: 1
+	property Number: 8
+	property Pest
+	sideeffects {
+		{
+			action Turn skip
+		}
+	}
+}
+
+Card SpadesSeven {
+	property Suit: 1
+	property Number: 7
+	property Pest
+	sideeffects {
+		{
+			action Turn repeat
+		}
+	}
+}
+
+Card SpadesSix {
+	property Suit: 1
+	property Number: 6
+}
+
+Card SpadesFive {
+	property Suit: 1
+	property Number: 5
+}
+
+Card SpadesFour {
+	property Suit: 1
+	property Number: 4
+}
+
+Card SpadesThree {
+	property Suit: 1
+	property Number: 3
+}
+
+Card SpadesTwo {
+	property Suit: 1
+	property Number: 2
+	property Pest
+	sideeffects {
+		{
+			action Turn next Player take 2
+		}
+	}
+}
+
+Card SpadesAce {
+	property Suit: 1
+	property Number: 1
+	property Pest
+	sideeffects {
+		{
+			action Turn reverse	
+		}
+	}
+}
+
+Card DiamondsKing {
+	property Suit: 2
+	property Number: 13
+}
+
+Card DiamondsQueen {
+	property Suit: 2
+	property Number: 12
+}
+
+Card DiamondsJack {
+	property Suit: 2
+	property Number: 11
+	property Pest
+	sideeffects {
+		{
+			action Turn next Rule remove SameSuitOrNumberOrJackOrJoker 
+		}
+	}
+}
+
+Card DiamondsTen {
+	property Suit: 2
+	property Number: 10
+}
+
+Card DiamondsNine {
+	property Suit: 2
+	property Number: 9
+}
+
+Card DiamondsEight {
+	property Suit: 2
+	property Number: 8
+	property Pest
+	sideeffects {
+		{
+			action Turn skip
+		}
+	}
+}
+
+Card DiamondsSeven {
+	property Suit: 2
+	property Number: 7
+	property Pest
+	sideeffects {
+		{
+			action Turn repeat
+		}
+	}
+}
+
+Card DiamondsSix {
+	property Suit: 2
+	property Number: 6
+}
+
+Card DiamondsFive {
+	property Suit: 2
+	property Number: 5
+}
+
+Card DiamondsFour {
+	property Suit: 2
+	property Number: 4
+}
+
+Card DiamondsThree {
+	property Suit: 2
+	property Number: 3
+}
+
+Card DiamondsTwo {
+	property Suit: 2
+	property Number: 2
+	property Pest
+	sideeffects {
+		{
+			action Turn next Player take 2
+		}
+	}
+}
+
+Card DiamondsAce {
+	property Suit: 2
+	property Number: 1
+	property Pest
+	sideeffects {
+		{
+			action Turn reverse	
+		}
+	}
+}
+
+Card ClubsKing {
+	property Suit: 3
+	property Number: 13
+}
+
+Card ClubsQueen {
+	property Suit: 3
+	property Number: 12
+}
+
+Card ClubsJack {
+	property Suit: 3
+	property Number: 11
+	property Pest
+	sideeffects {
+		{
+			action Turn next Rule remove SameSuitOrNumberOrJackOrJoker 
+		}
+	}
+}
+
+Card ClubsTen {
+	property Suit: 3
+	property Number: 10
+}
+
+Card ClubsNine {
+	property Suit: 3
+	property Number: 9
+}
+
+Card ClubsEight {
+	property Suit: 3
+	property Number: 8
+	property Pest
+	sideeffects {
+		{
+			action Turn skip
+		}
+	}
+}
+
+Card ClubsSeven {
+	property Suit: 3
+	property Number: 7
+	property Pest
+	sideeffects {
+		{
+			action Turn repeat
+		}
+	}
+}
+
+Card ClubsSix {
+	property Suit: 3
+	property Number: 6
+}
+
+Card ClubsFive {
+	property Suit: 3
+	property Number: 5
+}
+
+Card ClubsFour {
+	property Suit: 3
+	property Number: 4
+}
+
+Card ClubsThree {
+	property Suit: 3
+	property Number: 3
+}
+
+Card ClubsTwo {
+	property Suit: 3
+	property Number: 2
+	property Pest
+	sideeffects {
+		{
+			action Turn next Player take 2
+		}
+	}
+}
+
+Card ClubsAce {
+	property Suit: 3
+	property Number: 1
+	property Pest
+	sideeffects {
+		{
+			action Turn reverse	
+		}
+	}
+}
+
+Card JokerOne {
+	property Suit: 4 // Joker Suit
+	property Pest
+	sideeffects {
+		{
+			action Turn next Player take 5
+		}
+	}
+}
+
+Card JokerTwo {
+	property Suit: 4 // Joker Suit
+	property Pest
+	sideeffects {
+		{
+			action Turn next Player take 5
+		}
+	}
+}
+
+Setup {
+	Player "Alice" 
+		Deck { HeartsFive, HeartsQueen, JokerOne, SpadesSeven, ClubsEight, DiamondsTwo, SpadesFive }
+	Player "Bob"  
+		Deck { ClubsFour, SpadesThree, ClubsAce, SpadesQueen, DiamondsFour, HeartsJack, DiamondsKing }
+	Player "Carol" 
+		Deck { HeartsKing, SpadesEight, DiamondsJack, SpadesAce, DiamondsFive, ClubsSix, DiamondsNine }
+	cards {
+		Table { ClubsKing },
+		DrawingPile { 
+			HeartsTen, HeartsNine, HeartsEight, HeartsSeven, HeartsSix, HeartsFour, HeartsThree, HeartsTwo, HeartsAce,
+			SpadesKing, SpadesJack, SpadesTen, SpadesNine, SpadesSix, SpadesFour, SpadesTwo,
+			DiamondsQueen, DiamondsTen, DiamondsEight, DiamondsSeven, DiamondsSix, DiamondsThree, DiamondsAce,
+			ClubsQueen, ClubsJack, ClubsTen, ClubsNine, ClubsSeven, ClubsFive, ClubsThree, ClubsTwo,
+			JokerTwo
+		}
+	}
+}
