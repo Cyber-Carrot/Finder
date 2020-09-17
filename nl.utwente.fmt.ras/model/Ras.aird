@@ -4,4 +4,7 @@
     <semanticResources>generated/Ras.ecore</semanticResources>
     <semanticResources>http://www.eclipse.org/emf/2002/Ecore</semanticResources>
     <semanticResources>generated/Ras.genmodel</semanticResources>
-    <ownedViews xmi:typ
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_-WczcANPEeicKryYynbf9g">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" xmi:id="_w1AaEAQzEeipl4o4g2Bypw" name="RAS Class Diagram" repPath="#_w0_L8AQzEeipl4o4g2Bypw">
+        <description xmi:type="descrip
