@@ -11,4 +11,8 @@
         <target xmi:type="ecore:EPackage" href="generated/Ras.ecore#/"/>
       </ownedRepresentationDescriptors>
     </ownedViews>
-    <ownedViews xmi:type="viewpoint:DVie
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_-WqO0ANPEeicKryYynbf9g">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Review']"/>
+    </ownedViews>
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_-Wrc8ANPEeicKryYynbf9g">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecor
