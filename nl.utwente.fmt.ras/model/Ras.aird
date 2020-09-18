@@ -7,4 +7,8 @@
     <ownedViews xmi:type="viewpoint:DView" xmi:id="_-WczcANPEeicKryYynbf9g">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']"/>
       <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" xmi:id="_w1AaEAQzEeipl4o4g2Bypw" name="RAS Class Diagram" repPath="#_w0_L8AQzEeipl4o4g2Bypw">
-        <description xmi:type="descrip
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']"/>
+        <target xmi:type="ecore:EPackage" href="generated/Ras.ecore#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+    <ownedViews xmi:type="viewpoint:DVie
