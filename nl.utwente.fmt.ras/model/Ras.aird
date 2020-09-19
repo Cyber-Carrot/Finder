@@ -21,4 +21,7 @@
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Generation']"/>
     </ownedViews>
   </viewpoint:DAnalysis>
-  <diagram:DSemanticDiagram xmi:id="_w0_L8AQzEeipl4o4g2Bypw
+  <diagram:DSemanticDiagram xmi:id="_w0_L8AQzEeipl4o4g2Bypw" name="RAS Class Diagram">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_w0_L8QQzEeipl4o4g2Bypw" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_w0_L8gQzEeipl4o4g2Bypw">
+        <computedStyleDescriptions xmi:type="style:EdgeStyleDescription" xmi:id="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhatta
