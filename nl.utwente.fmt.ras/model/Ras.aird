@@ -35,4 +35,7 @@
         </computedStyleDescriptions>
       </data>
     </ownedAnnotationEntries>
-    <owned
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_w2Ms4AQzEeipl4o4g2Bypw" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_w2Ms4QQzEeipl4o4g2Bypw" type="Sirius" element="_w0_L8AQzEeipl4o4g2Bypw" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_xV6HsAQzEeipl4o4g2Bypw" type="2003" element="_xS-IcAQzEeipl4o4g2Bypw">
+          <children xmi:type="notation:Node" xmi:id="
