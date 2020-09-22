@@ -38,4 +38,8 @@
     <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_w2Ms4AQzEeipl4o4g2Bypw" source="GMF_DIAGRAMS">
       <data xmi:type="notation:Diagram" xmi:id="_w2Ms4QQzEeipl4o4g2Bypw" type="Sirius" element="_w0_L8AQzEeipl4o4g2Bypw" measurementUnit="Pixel">
         <children xmi:type="notation:Node" xmi:id="_xV6HsAQzEeipl4o4g2Bypw" type="2003" element="_xS-IcAQzEeipl4o4g2Bypw">
-          <children xmi:type="notation:Node" xmi:id="
+          <children xmi:type="notation:Node" xmi:id="_xV7V0AQzEeipl4o4g2Bypw" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_xV8j8AQzEeipl4o4g2Bypw" type="7004">
+            <children xmi:type="notation:Node" xmi:id="_xWZP4AQzEeipl4o4g2Bypw" type="3010" element="_xUNekAQzEeipl4o4g2Bypw">
+              <styles xmi:type="notation:FontStyle" xmi:id="_xWZP4QQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Locati
