@@ -54,4 +54,9 @@
           <children xmi:type="notation:Node" xmi:id="_xV9yEAQzEeipl4o4g2Bypw" type="5007"/>
           <children xmi:type="notation:Node" xmi:id="_xV-ZIAQzEeipl4o4g2Bypw" type="7004">
             <styles xmi:type="notation:SortingStyle" xmi:id="_xV-ZIQQzEeipl4o4g2Bypw"/>
-   
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xV-ZIgQzEeipl4o4g2Bypw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_xV9LAQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xV9LAgQzEeipl4o4g2Bypw" x="1032" y="1080"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_xV_AMAQzEeipl4o4g2Bypw" type="2003"
