@@ -88,4 +88,9 @@
               <styles xmi:type="notation:FontStyle" xmi:id="_xWZ28QQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
               <layoutConstraint xmi:type="notation:Location" xmi:id="_xWZ28gQzEeipl4o4g2Bypw"/>
             </children>
-            <styles xmi:type="notation:SortingStyl
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWA1ZQQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWA1ZgQzEeipl4o4g2Bypw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_xWA1YQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xWA1YgQzEeipl4o4g2Bypw" x="900" y="642"/>
+        </children>
