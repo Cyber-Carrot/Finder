@@ -114,4 +114,10 @@
               <styles xmi:type="notation:FontStyle" xmi:id="_xWaeBAQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
               <layoutConstraint xmi:type="notation:Location" xmi:id="_xWaeBQQzEeipl4o4g2Bypw"/>
             </children>
-         
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWDRoQQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWDRogQzEeipl4o4g2Bypw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_xWCDgQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xWCDggQzEeipl4o4g2Bypw" x="1230" y="162"/>
+        </children>
+        <c
