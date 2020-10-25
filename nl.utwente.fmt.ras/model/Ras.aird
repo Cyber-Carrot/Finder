@@ -128,4 +128,11 @@
               <layoutConstraint xmi:type="notation:Location" xmi:id="_xWbFEgQzEeipl4o4g2Bypw"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_xWbsIAQzEeipl4o4g2Bypw" type="3010" element="_xUUMQAQzEeipl4o4g2Bypw">
-              <styles xmi:type="notation:FontStyle" xmi:id="_xWbsIQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"
+              <styles xmi:type="notation:FontStyle" xmi:id="_xWbsIQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_xWbsIgQzEeipl4o4g2Bypw"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWD4sQQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWD4sgQzEeipl4o4g2Bypw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_xWDRpAQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+ 
