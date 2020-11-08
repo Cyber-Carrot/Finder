@@ -164,4 +164,9 @@
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xWEfxgQzEeipl4o4g2Bypw" x="486" y="354"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_xWFt4wQzEeipl4o4g2Bypw" type="2003" element="_xTLj0AQzEeipl4o4g2Bypw">
-          <child
+          <children xmi:type="notation:Node" xmi:id="_xWGU8AQzEeipl4o4g2Bypw" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_xWGU8QQzEeipl4o4g2Bypw" type="7004">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWGU8gQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWGU8wQzEeipl4o4g2Bypw"/>
+          </children>
+          <styles xmi:type="notation:ShapeS
