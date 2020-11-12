@@ -177,4 +177,11 @@
           <children xmi:type="notation:Node" xmi:id="_xWG8BAQzEeipl4o4g2Bypw" type="7004">
             <children xmi:type="notation:Node" xmi:id="_xWc6QAQzEeipl4o4g2Bypw" type="3010" element="_xUX2oAQzEeipl4o4g2Bypw">
               <styles xmi:type="notation:FontStyle" xmi:id="_xWc6QQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_xWc6QgQzEeipl4o4g2Bypw"
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_xWc6QgQzEeipl4o4g2Bypw"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWG8BQQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWG8BgQzEeipl4o4g2Bypw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_xWG8AQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xWG8AgQzEeipl4o4g2Bypw" x="504" y="162"/>
+       
