@@ -212,4 +212,10 @@
             <children xmi:type="notation:Node" xmi:id="_xWeIYwQzEeipl4o4g2Bypw" type="3010" element="_xUa58AQzEeipl4o4g2Bypw">
               <styles xmi:type="notation:FontStyle" xmi:id="_xWevcAQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
               <layoutConstraint xmi:type="notation:Location" xmi:id="_xWevcQQzEeipl4o4g2Bypw"/>
-            </childre
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWIxMgQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWIxMwQzEeipl4o4g2Bypw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_xWIKJQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xWIKJgQzEeipl4o4g2Bypw" x="607" y="642"/>
+        </children>
