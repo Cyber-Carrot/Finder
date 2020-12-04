@@ -233,4 +233,10 @@
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xWIxNgQzEeipl4o4g2Bypw" y="318"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_xWKmYAQzEeipl4o4g2Bypw" type="2003" element="_xTSRgAQzEeipl4o4g2Bypw">
-          <children xmi:type="notation:Node" xmi:id="_xWL0gAQzEeipl4o4g2Bypw"
+          <children xmi:type="notation:Node" xmi:id="_xWL0gAQzEeipl4o4g2Bypw" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_xWMbkAQzEeipl4o4g2Bypw" type="7004">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWMbkQQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWMbkgQzEeipl4o4g2Bypw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_xWKmYQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation
