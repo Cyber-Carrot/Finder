@@ -248,4 +248,9 @@
               <styles xmi:type="notation:FontStyle" xmi:id="_xWfWgQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
               <layoutConstraint xmi:type="notation:Location" xmi:id="_xWfWggQzEeipl4o4g2Bypw"/>
             </children>
-            <children xmi:type="notation:Node" xmi:id="_xWf9kAQzEeipl4o4g2Bypw" visi
+            <children xmi:type="notation:Node" xmi:id="_xWf9kAQzEeipl4o4g2Bypw" visible="false" type="3010" element="_xUqKggQzEeipl4o4g2Bypw">
+              <styles xmi:type="notation:FontStyle" xmi:id="_xWf9kQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_xWf9kgQzEeipl4o4g2Bypw"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWNCogQzEeipl4o4g2Bypw"/>
+        
