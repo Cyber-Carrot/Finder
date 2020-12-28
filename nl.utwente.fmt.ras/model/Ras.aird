@@ -320,4 +320,10 @@
               <layoutConstraint xmi:type="notation:Location" xmi:id="_xWjn8gQzEeipl4o4g2Bypw"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_xWjn8wQzEeipl4o4g2Bypw" visible="false" type="3010" element="_xUw4MQQzEeipl4o4g2Bypw">
-            
+              <styles xmi:type="notation:FontStyle" xmi:id="_xWjn9AQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_xWjn9QQzEeipl4o4g2Bypw"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWO30gQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWO30wQzEeipl4o4g2Bypw"/>
+          </children>
+       
