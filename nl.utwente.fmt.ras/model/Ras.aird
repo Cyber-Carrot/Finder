@@ -353,4 +353,10 @@
               <layoutConstraint xmi:type="notation:Location" xmi:id="_xWldIgQzEeipl4o4g2Bypw"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_xWldIwQzEeipl4o4g2Bypw" visible="false" type="3010" element="_xU1JoAQzEeipl4o4g2Bypw">
-              <styles 
+              <styles xmi:type="notation:FontStyle" xmi:id="_xWldJAQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_xWldJQQzEeipl4o4g2Bypw"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWPe4gQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWPe4wQzEeipl4o4g2Bypw"/>
+          </children>
+          <styles xmi:type="notation:
