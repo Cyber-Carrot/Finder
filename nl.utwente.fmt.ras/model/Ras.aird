@@ -388,4 +388,9 @@
             <styles xmi:type="notation:SortingStyle" xmi:id="_xWQF8gQzEeipl4o4g2Bypw"/>
             <styles xmi:type="notation:FilteringStyle" xmi:id="_xWQF8wQzEeipl4o4g2Bypw"/>
           </children>
-          <styles xmi:type="notation:ShapeStyle" xmi:id
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_xWPe5QQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xWPe5gQzEeipl4o4g2Bypw" x="924"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_xWQF9AQzEeipl4o4g2Bypw" visible="false" type="2003" element="_xTa0YAQzEeipl4o4g2Bypw">
+          <children xmi:type="notation:Node" xmi:id="_xWQtAAQzEeipl4o4g2Bypw" type="5007"/>
+         
