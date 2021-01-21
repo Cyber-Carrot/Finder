@@ -402,4 +402,10 @@
               <styles xmi:type="notation:FontStyle" xmi:id="_xWogcQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
               <layoutConstraint xmi:type="notation:Location" xmi:id="_xWogcgQzEeipl4o4g2Bypw"/>
             </children>
-            <styles xmi:type="notation:SortingStyle"
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWQtAgQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWQtAwQzEeipl4o4g2Bypw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_xWQF9QQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xWQF9gQzEeipl4o4g2Bypw" x="1104"/>
+        </children>
+        <children xmi:type="notation:Node" xmi
