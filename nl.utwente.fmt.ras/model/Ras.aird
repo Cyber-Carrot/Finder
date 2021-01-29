@@ -416,4 +416,8 @@
               <layoutConstraint xmi:type="notation:Location" xmi:id="_xWpHggQzEeipl4o4g2Bypw"/>
             </children>
             <children xmi:type="notation:Node" xmi:id="_xWpHgwQzEeipl4o4g2Bypw" visible="false" type="3010" element="_xU5bEQQzEeipl4o4g2Bypw">
-              <styles xmi:t
+              <styles xmi:type="notation:FontStyle" xmi:id="_xWpHhAQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_xWpHhQQzEeipl4o4g2Bypw"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWRUEgQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWRUEwQzEeipl4o4g2Bypw"/>
