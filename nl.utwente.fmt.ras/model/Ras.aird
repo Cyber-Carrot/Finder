@@ -430,4 +430,9 @@
           <children xmi:type="notation:Node" xmi:id="_xWR7IQQzEeipl4o4g2Bypw" type="7004">
             <children xmi:type="notation:Node" xmi:id="_xWpukAQzEeipl4o4g2Bypw" visible="false" type="3010" element="_xU6CIAQzEeipl4o4g2Bypw">
               <styles xmi:type="notation:FontStyle" xmi:id="_xWpukQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="notation:
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_xWpukgQzEeipl4o4g2Bypw"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_xWpukwQzEeipl4o4g2Bypw" visible="false" type="3010" element="_xU6CIgQzEeipl4o4g2Bypw">
+              <styles xmi:type="notation:FontStyle" xmi:id="_xWpulAQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_xWpulQQzEeipl4o4g2Bypw"/>
+ 
