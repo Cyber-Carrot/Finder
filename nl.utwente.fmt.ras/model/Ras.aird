@@ -484,4 +484,9 @@
               <styles xmi:type="notation:FontStyle" xmi:id="_xWq8sQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
               <layoutConstraint xmi:type="notation:Location" xmi:id="_xWq8sgQzEeipl4o4g2Bypw"/>
             </children>
-            <children xmi:type="notation:Node" xmi:id="_xWrjwAQzEeipl4o4g2Bypw" visible="false" type="3010" element="_xUfycAQ
+            <children xmi:type="notation:Node" xmi:id="_xWrjwAQzEeipl4o4g2Bypw" visible="false" type="3010" element="_xUfycAQzEeipl4o4g2Bypw">
+              <styles xmi:type="notation:FontStyle" xmi:id="_xWrjwQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_xWrjwgQzEeipl4o4g2Bypw"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWUXYgQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWUXYwQzEeipl4o4g2B
