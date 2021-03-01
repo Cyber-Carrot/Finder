@@ -534,4 +534,8 @@
             <styles xmi:type="notation:SortingStyle" xmi:id="_xWWMmQQzEeipl4o4g2Bypw"/>
             <styles xmi:type="notation:FilteringStyle" xmi:id="_xWWMmgQzEeipl4o4g2Bypw"/>
           </children>
-          <styles xmi:type="notation:Shape
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_xWWMlQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xWWMlgQzEeipl4o4g2Bypw" x="2298" y="318"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_xWWzoAQzEeipl4o4g2Bypw" visible="false" type="2003" element="_xTr6IAQzEeipl4o4g2Bypw">
+          <children xmi:type="notation:Node" xmi:id="_xW
