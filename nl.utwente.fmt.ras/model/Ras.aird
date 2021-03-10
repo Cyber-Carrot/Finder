@@ -566,4 +566,10 @@
           <children xmi:type="notation:Node" xmi:id="_xWXaswQzEeipl4o4g2Bypw" type="5007"/>
           <children xmi:type="notation:Node" xmi:id="_xWXatAQzEeipl4o4g2Bypw" type="7004">
             <children xmi:type="notation:Node" xmi:id="_xWuAAAQzEeipl4o4g2Bypw" visible="false" type="3010" element="_xUl5EQQzEeipl4o4g2Bypw">
-              <styles xmi:type="notation:FontStyle" xmi:id="_
+              <styles xmi:type="notation:FontStyle" xmi:id="_xWuAAQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_xWuAAgQzEeipl4o4g2Bypw"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWXatQQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWXatgQzEeipl4o4g2Bypw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" x
