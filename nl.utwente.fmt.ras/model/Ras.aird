@@ -580,4 +580,10 @@
           <children xmi:type="notation:Node" xmi:id="_xWYBwQQzEeipl4o4g2Bypw" type="7004">
             <children xmi:type="notation:Node" xmi:id="_xWunEAQzEeipl4o4g2Bypw" visible="false" type="3010" element="_xUmgIQQzEeipl4o4g2Bypw">
               <styles xmi:type="notation:FontStyle" xmi:id="_xWunEQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
-              <layoutConstraint xmi:type="
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_xWunEgQzEeipl4o4g2Bypw"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWYBwgQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_xWYBwwQzEeipl4o4g2Bypw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_xWXauAQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:typ
