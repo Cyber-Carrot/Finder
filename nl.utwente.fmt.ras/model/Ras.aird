@@ -600,4 +600,9 @@
         <children xmi:type="notation:Node" xmi:id="_xWYo1AQzEeipl4o4g2Bypw" visible="false" type="2003" element="_xTwLkAQzEeipl4o4g2Bypw">
           <children xmi:type="notation:Node" xmi:id="_xWYo1wQzEeipl4o4g2Bypw" type="5007"/>
           <children xmi:type="notation:Node" xmi:id="_xWYo2AQzEeipl4o4g2Bypw" type="7004">
-            <children xmi:type="notation:Node" xmi:id="_xWunEwQzEeipl4o4g2Bypw" vi
+            <children xmi:type="notation:Node" xmi:id="_xWunEwQzEeipl4o4g2Bypw" visible="false" type="3010" element="_xUnuQAQzEeipl4o4g2Bypw">
+              <styles xmi:type="notation:FontStyle" xmi:id="_xWunFAQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_xWunFQQzEeipl4o4g2Bypw"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_xWYo2QQzEeipl4o4g2Bypw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id
