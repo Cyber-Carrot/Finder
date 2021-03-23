@@ -615,4 +615,10 @@
           <children xmi:type="notation:Node" xmi:id="_xW8pgAQzEeipl4o4g2Bypw" type="6001">
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xW8pgQQzEeipl4o4g2Bypw" x="-49" y="10"/>
           </children>
-          <children xmi:type="notation:Node" xmi:id="_xW93oAQzEeipl4o4g2Bypw" type="
+          <children xmi:type="notation:Node" xmi:id="_xW93oAQzEeipl4o4g2Bypw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xW93oQQzEeipl4o4g2Bypw" x="-30" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xW-esAQzEeipl4o4g2Bypw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xW_FwAQzEeipl4o4g2Bypw" x="9" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorSty
