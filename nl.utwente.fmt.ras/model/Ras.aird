@@ -627,4 +627,9 @@
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXD-QAQzEeipl4o4g2Bypw" id="(0.5,0.0)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXD-QQQzEeipl4o4g2Bypw" id="(0.5,1.0)"/>
         </edges>
-        <edges xmi:type="notation:Edge" xmi:id="_xXD-QgQzEeipl4o4g2Bypw" type="4001" element="_xU_hsAQzEeipl4o4g2Bypw" source="_xV6HsAQzEeipl4o4g2Bypw" target="_xWHjEAQzEeipl4o4g2Bypw"
+        <edges xmi:type="notation:Edge" xmi:id="_xXD-QgQzEeipl4o4g2Bypw" type="4001" element="_xU_hsAQzEeipl4o4g2Bypw" source="_xV6HsAQzEeipl4o4g2Bypw" target="_xWHjEAQzEeipl4o4g2Bypw">
+          <children xmi:type="notation:Node" xmi:id="_xXElUAQzEeipl4o4g2Bypw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXElUQQzEeipl4o4g2Bypw" x="22" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXElUgQzEeipl4o4g2Bypw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXElUwQzEeipl4o4g2Bypw" x="-22" y="10"/>
