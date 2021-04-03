@@ -633,3 +633,9 @@
           </children>
           <children xmi:type="notation:Node" xmi:id="_xXElUgQzEeipl4o4g2Bypw" type="6002">
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXElUwQzEeipl4o4g2Bypw" x="-22" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXElVAQzEeipl4o4g2Bypw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXElVQQzEeipl4o4g2Bypw" x="65" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXD-QwQzEeipl4o4g2Bypw" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_xXD-
