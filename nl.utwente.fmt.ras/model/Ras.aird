@@ -717,4 +717,7 @@
           <children xmi:type="notation:Node" xmi:id="_xXHopAQzEeipl4o4g2Bypw" type="6003">
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXHopQQzEeipl4o4g2Bypw" x="2" y="5"/>
           </children>
-          <st
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXHBmQQzEeipl4o4g2Bypw" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_xXHBmgQzEeipl4o4g2Bypw" fontColor="7490599" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xXHBmwQzEeipl4o4g2Bypw" points="[-59, 10, 127, 32]$[-186, 10, 0, 32]$[-186, -22, 0, 0]"/>
+          <sourceAnchor xmi:type="
