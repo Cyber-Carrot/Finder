@@ -702,4 +702,7 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXHBlQQzEeipl4o4g2Bypw" x="10" y="-10"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXGahAQzEeipl4o4g2Bypw" routing="Rectilinear"/>
-       
+          <styles xmi:type="notation:FontStyle" xmi:id="_xXGahQQzEeipl4o4g2Bypw" fontColor="7490599" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xXGahgQzEeipl4o4g2Bypw" points="[-1, 0, 176, 100]$[-1, -150, 176, -50]$[-118, -150, 59, -50]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXHBlgQzEeipl4o4g2Bypw" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXHBlwQzEeipl4o
