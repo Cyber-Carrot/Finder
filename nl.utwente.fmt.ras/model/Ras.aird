@@ -724,4 +724,10 @@
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXIPsAQzEeipl4o4g2Bypw" id="(0.5,1.0)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_xXIPsQQzEeipl4o4g2Bypw" type="4001" element="_xVFoUAQzEeipl4o4g2Bypw" source="_xV9LAAQzEeipl4o4g2Bypw" target="_xV_AMAQzEeipl4o4g2Bypw">
-          <childr
+          <children xmi:type="notation:Node" xmi:id="_xXIPtQQzEeipl4o4g2Bypw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXIPtgQzEeipl4o4g2Bypw" x="-41" y="-34"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXIPtwQzEeipl4o4g2Bypw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXIPuAQzEeipl4o4g2Bypw" x="-34" y="10"/>
+          </children>
+  
