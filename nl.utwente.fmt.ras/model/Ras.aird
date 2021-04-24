@@ -762,4 +762,9 @@
           <children xmi:type="notation:Node" xmi:id="_xXJd1gQzEeipl4o4g2Bypw" type="6002">
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXJd1wQzEeipl4o4g2Bypw" y="10"/>
           </children>
-          <children xmi:type="notation:Node" xmi:id="_x
+          <children xmi:type="notation:Node" xmi:id="_xXJd2AQzEeipl4o4g2Bypw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXJd2QQzEeipl4o4g2Bypw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXJd0QQzEeipl4o4g2Bypw" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_xXJd0gQzEeipl4o4g2Bypw" fontColor="7490599" fontName="Segoe UI" fontHeight="8"/>
+          <bend
