@@ -859,4 +859,8 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXRZoQQzEeipl4o4g2Bypw" x="6" y="10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_xXSAsAQzEeipl4o4g2Bypw" type="6003">
-            <layo
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXSAsQQzEeipl4o4g2Bypw" x="28" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXOWUQQzEeipl4o4g2Bypw" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_xXOWUgQzEeipl4o4g2Bypw" fontColor="7490599" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xXOWU
