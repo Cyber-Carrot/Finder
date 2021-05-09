@@ -852,4 +852,11 @@
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXNvQQQzEeipl4o4g2Bypw" id="(0.5,1.0)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_xXOWUAQzEeipl4o4g2Bypw" type="4001" element="_xVMWAwQzEeipl4o4g2Bypw" source="_xWA1YAQzEeipl4o4g2Bypw" target="_xWEfxAQzEeipl4o4g2Bypw">
-          <children xmi:type="notation:Node" xmi:id="_xXQLgAQzEeipl4o4g2Bypw" type="6
+          <children xmi:type="notation:Node" xmi:id="_xXQLgAQzEeipl4o4g2Bypw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXQLgQQzEeipl4o4g2Bypw" x="-109" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXRZoAQzEeipl4o4g2Bypw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXRZoQQzEeipl4o4g2Bypw" x="6" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXSAsAQzEeipl4o4g2Bypw" type="6003">
+            <layo
