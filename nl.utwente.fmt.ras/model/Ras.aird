@@ -863,4 +863,8 @@
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXOWUQQzEeipl4o4g2Bypw" routing="Rectilinear"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_xXOWUgQzEeipl4o4g2Bypw" fontColor="7490599" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xXOWU
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xXOWUwQzEeipl4o4g2Bypw" points="[-35, 0, 379, 190]$[-35, -64, 379, 126]$[-413, -64, 1, 126]$[-413, -190, 1, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXSnwAQzEeipl4o4g2Bypw" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXSnwQQzEeipl4o4g2Bypw" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_xXSnwgQzEeipl4o4g2Bypw" type="4001
