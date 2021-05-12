@@ -872,4 +872,10 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXTO0QQzEeipl4o4g2Bypw" x="-44" y="-5"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_xXTO0gQzEeipl4o4g2Bypw" type="6002">
-            <layoutConstraint x
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXTO0wQzEeipl4o4g2Bypw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXTO1AQzEeipl4o4g2Bypw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXTO1QQzEeipl4o4g2Bypw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXSnwwQzEeipl4o4g2Bypw" routing="Rectilinear"/>
+          <styles xmi:type="n
