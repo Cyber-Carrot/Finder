@@ -900,4 +900,10 @@
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXUc9wQzEeipl4o4g2Bypw" id="(0.5,1.0)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_xXUc-AQzEeipl4o4g2Bypw" type="4001" element="_xVOyQwQzEeipl4o4g2Bypw" source="_xWDRowQzEeipl4o4g2Bypw" target="_xWG8AAQzEeipl4o4g2Bypw">
-          <children xmi:type="notatio
+          <children xmi:type="notation:Node" xmi:id="_xXVEAAQzEeipl4o4g2Bypw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXVEAQQzEeipl4o4g2Bypw" x="-64" y="-44"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXVEAgQzEeipl4o4g2Bypw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXVEAwQzEeipl4o4g2Bypw" x="-19" y="10"/>
+          </children>
+ 
