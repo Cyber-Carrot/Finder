@@ -983,4 +983,11 @@
           <children xmi:type="notation:Node" xmi:id="_xXYHWgQzEeipl4o4g2Bypw" type="6001">
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXYHWwQzEeipl4o4g2Bypw" x="33" y="-10"/>
           </children>
-          <children xmi:type="notation:Node" xmi:id="_xXYuYAQzEeipl4o4g2Bypw" ty
+          <children xmi:type="notation:Node" xmi:id="_xXYuYAQzEeipl4o4g2Bypw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXYuYQQzEeipl4o4g2Bypw" x="56" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXYuYgQzEeipl4o4g2Bypw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXYuYwQzEeipl4o4g2Bypw" x="9" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXYHVwQzEeipl4o4g2Bypw" routing="Rectilinear"/>
+          <style
