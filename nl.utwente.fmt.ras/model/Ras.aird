@@ -1003,4 +1003,8 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXZVcwQzEeipl4o4g2Bypw" x="-26" y="10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_xXZVdAQzEeipl4o4g2Bypw" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXZVdQQzEeipl4o4g2Bypw" x
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXZVdQQzEeipl4o4g2Bypw" x="-15" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXYuZwQzEeipl4o4g2Bypw" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_xXYuaAQzEeipl4o4g2Bypw" fontColor="7490599" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xXYuaQQzEeipl4o4g2Bypw" points="[59, 54, -165, 28]$[224, 54, 0, 28]$[224, 26, 0, 0]"/>
