@@ -1072,4 +1072,8 @@
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXcYwQQzEeipl4o4g2Bypw" routing="Rectilinear"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_xXcYwgQzEeipl4o4g2Bypw" fontColor="7490599" fontName="Segoe UI" fontHeight="8"/>
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xXcYwwQzEeipl4o4g2Bypw" points="[-24, 0, -245, 106]$[-24, -54, -245, 52]$[186, -54, -35, 52]$[186, -106, -35, 0]"/>
-          <sourceAnchor xmi:type="not
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXc_0AQzEeipl4o4g2Bypw" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXc_0QQzEeipl4o4g2Bypw" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_xXc_0gQzEeipl4o4g2Bypw" type="4001" element="_xVYjQAQzEeipl4o4g2Bypw" source="_xWIxNAQzEeipl4o4g2Bypw" target="_xWIxNAQzEeipl4o4g2Bypw">
+          <children xm
