@@ -1080,4 +1080,10 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXdm4QQzEeipl4o4g2Bypw" x="4" y="-10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_xXeN8AQzEeipl4o4g2Bypw" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXeN8QQzEeipl4o4g2Bypw" x="9" y="10"/
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXeN8QQzEeipl4o4g2Bypw" x="9" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXeN8gQzEeipl4o4g2Bypw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXeN8wQzEeipl4o4g2Bypw" x="4" y="5"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXc_0wQzEeipl4o4g2Bypw" routing="Rectilinear"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_xXc_1AQzEeipl4o4g2Bypw" fontColor="74905
