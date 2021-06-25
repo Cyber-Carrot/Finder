@@ -1076,4 +1076,8 @@
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXc_0QQzEeipl4o4g2Bypw" id="(0.5,1.0)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_xXc_0gQzEeipl4o4g2Bypw" type="4001" element="_xVYjQAQzEeipl4o4g2Bypw" source="_xWIxNAQzEeipl4o4g2Bypw" target="_xWIxNAQzEeipl4o4g2Bypw">
-          <children xm
+          <children xmi:type="notation:Node" xmi:id="_xXdm4AQzEeipl4o4g2Bypw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXdm4QQzEeipl4o4g2Bypw" x="4" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXeN8AQzEeipl4o4g2Bypw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXeN8QQzEeipl4o4g2Bypw" x="9" y="10"/
