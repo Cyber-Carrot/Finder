@@ -1093,4 +1093,10 @@
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_xXjtgAQzEeipl4o4g2Bypw" visible="false" type="4001" element="_xVjiYAQzEeipl4o4g2Bypw" source="_xWR7JAQzEeipl4o4g2Bypw" target="_xWKmYAQzEeipl4o4g2Bypw">
           <children xmi:type="notation:Node" xmi:id="_xXjthAQzEeipl4o4g2Bypw" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXjthQQzEeipl4o4g2Bypw" y="-10"
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXjthQQzEeipl4o4g2Bypw" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXjthgQzEeipl4o4g2Bypw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXjthwQzEeipl4o4g2Bypw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXjtiAQzEeipl4o4g2Bypw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXjtiQQzEeipl4o4g2Bypw" y=
