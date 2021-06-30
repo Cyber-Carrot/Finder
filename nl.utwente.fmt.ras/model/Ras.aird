@@ -1104,4 +1104,7 @@
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXjtgQQzEeipl4o4g2Bypw" routing="Tree"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_xXjtggQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xXjtgwQzEeipl4o4g2Bypw" points="[0, 0, -16, 60]$[16, -60, 0, 0]"/>
-          <sourceAncho
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXkUkAQzEeipl4o4g2Bypw" id="(0.4976303317535545,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXkUkQQzEeipl4o4g2Bypw" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_xXkUkgQzEeipl4o4g2Bypw" visible="false" type="4001" element="_xVkwgAQzEeipl4o4g2Bypw" source="_xWSiNAQzEeipl4o
