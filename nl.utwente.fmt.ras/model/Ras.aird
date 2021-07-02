@@ -1127,4 +1127,10 @@
           <children xmi:type="notation:Node" xmi:id="_xXk7qAQzEeipl4o4g2Bypw" type="6001">
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXlisAQzEeipl4o4g2Bypw" y="-10"/>
           </children>
-          <children xmi:type="n
+          <children xmi:type="notation:Node" xmi:id="_xXlisQQzEeipl4o4g2Bypw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXlisgQzEeipl4o4g2Bypw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXliswQzEeipl4o4g2Bypw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXlitAQzEeipl4o4g2Bypw" y="10"/>
+          </children>
+          <styles xmi:type="notation:Connecto
