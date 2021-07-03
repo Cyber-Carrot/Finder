@@ -1146,4 +1146,9 @@
           <children xmi:type="notation:Node" xmi:id="_xXmJwgQzEeipl4o4g2Bypw" type="6002">
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXmJwwQzEeipl4o4g2Bypw" y="10"/>
           </children>
-          <children xmi:type="notation:Node" xmi:id="_xXmJxAQzEeipl4o4g2Bypw" type="6003"
+          <children xmi:type="notation:Node" xmi:id="_xXmJxAQzEeipl4o4g2Bypw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXmw0AQzEeipl4o4g2Bypw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXliuAQzEeipl4o4g2Bypw" routing="Tree"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_xXliuQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xXliugQ
