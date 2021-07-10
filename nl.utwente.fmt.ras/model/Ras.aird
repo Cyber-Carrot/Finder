@@ -1160,4 +1160,10 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXnX4QQzEeipl4o4g2Bypw" y="-10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_xXnX4gQzEeipl4o4g2Bypw" type="6002">
-            <layoutConstraint xmi:type="nota
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXnX4wQzEeipl4o4g2Bypw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXnX5AQzEeipl4o4g2Bypw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXnX5QQzEeipl4o4g2Bypw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXmw1AQzEeipl4o4g2Bypw" routing="Tree"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_xXm
