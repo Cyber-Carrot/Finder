@@ -1200,4 +1200,7 @@
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXn--QQzEeipl4o4g2Bypw" routing="Tree"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_xXn--gQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xXn--wQzEeipl4o4g2Bypw" points="[0, 0, -605, 60]$[605, -60, 0, 0]"/>
-  
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXomBgQzEeipl4o4g2Bypw" id="(0.49783549783549785,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXomBwQzEeipl4o4g2Bypw" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_xXpNEAQzEeipl4o4g2Bypw" visible="false" type="4001" element="_xVqQEAQzEeipl4o4g2Bypw" source="_xWWzoAQzEeipl4o4g2Byp
