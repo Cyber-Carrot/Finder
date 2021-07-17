@@ -1195,4 +1195,9 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXomAwQzEeipl4o4g2Bypw" y="10"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_xXomBAQzEeipl4o4g2Bypw" type="6003">
-            <layoutConstraint xmi:type="notation
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXomBQQzEeipl4o4g2Bypw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXn--QQzEeipl4o4g2Bypw" routing="Tree"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_xXn--gQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xXn--wQzEeipl4o4g2Bypw" points="[0, 0, -605, 60]$[605, -60, 0, 0]"/>
+  
