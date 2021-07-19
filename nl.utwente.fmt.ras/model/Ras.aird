@@ -1223,4 +1223,10 @@
           <children xmi:type="notation:Node" xmi:id="_xXp0JAQzEeipl4o4g2Bypw" type="6001">
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXp0JQQzEeipl4o4g2Bypw" y="-10"/>
           </children>
-          <children xmi:type="notation:Node" xmi:id="_xXp0JgQzEeipl4o4g2By
+          <children xmi:type="notation:Node" xmi:id="_xXp0JgQzEeipl4o4g2Bypw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXp0JwQzEeipl4o4g2Bypw" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXp0KAQzEeipl4o4g2Bypw" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXp0KQQzEeipl4o4g2Bypw" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXp0IQQzEeipl
