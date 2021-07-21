@@ -1244,4 +1244,8 @@
           </children>
           <children xmi:type="notation:Node" xmi:id="_xXrCQgQzEeipl4o4g2Bypw" type="6003">
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXrCQwQzEeipl4o4g2Bypw" y="10"/>
-          </
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xXqbMQQzEeipl4o4g2Bypw" routing="Tree"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_xXqbMgQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xXqbMwQzEeipl4o4g2Bypw" points="[0, 0, -305, 60]$[305, -60, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:Identi
