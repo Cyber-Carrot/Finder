@@ -1252,4 +1252,10 @@
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXrCRQQzEeipl4o4g2Bypw" id="(0.5,1.0)"/>
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_xXrCRgQzEeipl4o4g2Bypw" visible="false" type="4001" element="_xVt6cAQzEeipl4o4g2Bypw" source="_xWYBxAQzEeipl4o4g2Bypw" target="_xWKmYAQzEeipl4o4g2Bypw">
-          <children xmi:type="not
+          <children xmi:type="notation:Node" xmi:id="_xXrCSgQzEeipl4o4g2Bypw" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXrpUAQzEeipl4o4g2Bypw" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xXrpUQQzEeipl4o4g2Bypw" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xXrpUgQzEeipl4o4g2Bypw" y="10"/>
+          </children>
+          <childr
