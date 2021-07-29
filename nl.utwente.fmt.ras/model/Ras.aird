@@ -1281,4 +1281,9 @@
           <styles xmi:type="notation:FontStyle" xmi:id="_xXrpWQQzEeipl4o4g2Bypw" fontName="Segoe UI" fontHeight="8"/>
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xXrpWgQzEeipl4o4g2Bypw" points="[0, 0, 803, 60]$[-803, -60, 0, 0]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXsQZgQzEeipl4o4g2Bypw" id="(0.5,0.0)"/>
-          <targetAnchor xmi:type="notatio
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xXsQZwQzEeipl4o4g2Bypw" id="(0.5,1.0)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xS-IcAQzEeipl4o4g2Bypw" name="Game" tooltipText="" outgoingEdges="_xU9sgAQzEeipl4o4g2Bypw _xU_hsAQzEeipl4o4g2Bypw _xVBW4AQzEeipl4o4g2Bypw _xVClAAQzEeipl4o4g2Bypw _xVDMEAQzEeipl4o4g2Bypw _xVEaMAQzEeipl4o4g2Bypw" width="12" height="10">
+   
