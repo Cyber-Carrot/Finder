@@ -1286,4 +1286,7 @@
       </data>
     </ownedAnnotationEntries>
     <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xS-IcAQzEeipl4o4g2Bypw" name="Game" tooltipText="" outgoingEdges="_xU9sgAQzEeipl4o4g2Bypw _xU_hsAQzEeipl4o4g2Bypw _xVBW4AQzEeipl4o4g2Bypw _xVClAAQzEeipl4o4g2Bypw _xVDMEAQzEeipl4o4g2Bypw _xVEaMAQzEeipl4o4g2Bypw" width="12" height="10">
-   
+      <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//Game"/>
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//Game"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xS-vgAQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="Liquid" foregroundColor="255,252,216">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/
