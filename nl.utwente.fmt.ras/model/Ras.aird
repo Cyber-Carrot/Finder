@@ -1301,4 +1301,9 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']"/>
       </ownedElements>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTAksAQzEeipl4o4g2Bypw" name="Setup" tooltipText="" outgoingEdges="_xVFBQAQzEe
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTAksAQzEeipl4o4g2Bypw" name="Setup" tooltipText="" outgoingEdges="_xVFBQAQzEeipl4o4g2Bypw _xVFoUAQzEeipl4o4g2Bypw" incomingEdges="_xVEaMAQzEeipl4o4g2Bypw" width="12" height="10">
+      <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//Setup"/>
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//Setup"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</a
