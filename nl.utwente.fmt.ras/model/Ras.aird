@@ -1295,4 +1295,7 @@
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUNekAQzEeipl4o4g2Bypw" name="name : EString" tooltipText="">
         <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//Game/name"/>
         <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//Game/name"/>
-        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUOFoAQzEeipl4o4g2B
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUOFoAQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" hr
