@@ -1320,4 +1320,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTDA8AQzEeipl4o4g2Bypw" name="Player" tooltipText="" outgoingEdges="_xVIEkwQzEeipl4o4g2Bypw" incomingEdges="_xVFBQAQzEeipl4o4g2Bypw" width="12" height="10">
+      <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//Player"/>
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//Player"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTDA8QQzEeipl4o4g2Bypw" borde
