@@ -1314,4 +1314,6 @@
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTBy0AQzEeipl4o4g2Bypw" name="InitialLocationState" tooltipText="" outgoingEdges="_xVG2cAQzEeipl4o4g2Bypw _xVHdgAQzEeipl4o4g2Bypw" incomingEdges="_xVFoUAQzEeipl4o4g2Bypw _xVIEkwQzEeipl4o4g2Bypw" width="12" height="10">
       <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//InitialLocationState"/>
-      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//InitialLocation
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//InitialLocationState"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTCZ4AQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="Liquid" foregroundColor="255,252,216">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[na
