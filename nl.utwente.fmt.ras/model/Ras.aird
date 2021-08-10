@@ -1333,4 +1333,8 @@
         <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUPTwQQzEeipl4o4g2Bypw" labelAlignment="LEFT">
           <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']/@style"/>
         </ownedStyle>
-        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']"/>
+      </ownedElements>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTDoAAQzEeipl4o4g2Bypw" name="Card" tooltipText="" outgoingEdges="_xVJSsAQzEeipl4o4g2Bypw _xVJ5wAQzEeipl4o4g2Bypw _xVKg0wQzEeipl4o4g2Bypw _xVLu8AQzEeipl4o4g2Bypw _xVMWAwQzEeipl4o4g2Bypw" incomingEdges="_xVDMEAQzEeipl4o4g2Bypw _xVHdgAQzEeipl4o4g2Bypw _xVPZUwQzEeipl4o4g2Bypw" width="12" height="10">
+      <target xmi:type="ecore:ECl
