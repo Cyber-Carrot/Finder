@@ -1362,4 +1362,7 @@
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xURI8AQzEeipl4o4g2Bypw" name="value : EInt" tooltipText="">
         <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//CardProperty/value"/>
         <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//CardProperty/value"/>
-        <ownedStyle xmi:typ
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xURwAAQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:typ
