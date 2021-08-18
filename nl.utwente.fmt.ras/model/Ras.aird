@@ -1371,4 +1371,6 @@
     <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTGEQAQzEeipl4o4g2Bypw" name="CardPropertyType" tooltipText="" incomingEdges="_xVBW4AQzEeipl4o4g2Bypw _xVNkIAQzEeipl4o4g2Bypw _xVQncAQzEeipl4o4g2Bypw" width="12" height="10">
       <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//CardPropertyType"/>
       <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//CardPropertyType"/>
-      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_x
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTGrUAQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="Liquid" foregroundColor="255,252,216">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@style"/>
+      </o
