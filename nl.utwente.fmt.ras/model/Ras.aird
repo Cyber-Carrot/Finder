@@ -1394,4 +1394,7 @@
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUS-IQQzEeipl4o4g2Bypw" name="name : EString" tooltipText="">
         <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//CardRule/name"/>
         <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//CardRule/name"/>
-        <ownedStyle xmi:type="di
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUTlMAQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']/@style"/>
+        </ownedStyle>
+        <a
