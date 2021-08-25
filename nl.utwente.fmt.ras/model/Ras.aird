@@ -1418,4 +1418,7 @@
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUVaYAQzEeipl4o4g2Bypw" name="type : CostType = Live" tooltipText="">
         <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//Cost/type"/>
         <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//Cost/type"/>
-        <ownedStyle xmi:type="diagram:BundledIm
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUWBcAQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']/@style"/>
+        </ownedStyle>
+        <actual
