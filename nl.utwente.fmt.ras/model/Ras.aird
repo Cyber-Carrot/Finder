@@ -1423,4 +1423,8 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']"/>
       </ownedElements>
-      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUWogAQzEeipl4o4g2By
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUWogAQzEeipl4o4g2Bypw" name="amount : EInt" tooltipText="">
+        <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//Cost/amount"/>
+        <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//Cost/amount"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUXPkAQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/descr
