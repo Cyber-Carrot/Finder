@@ -1443,4 +1443,10 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTLj0AQzEeipl4o4g2Bypw" name="CardAction" tooltipText="" outgoingEdges="_xVTqwwQzEeipl4o4g2B
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTLj0AQzEeipl4o4g2Bypw" name="CardAction" tooltipText="" outgoingEdges="_xVTqwwQzEeipl4o4g2Bypw _xVU44AQzEeipl4o4g2Bypw" incomingEdges="_xVLu8AQzEeipl4o4g2Bypw" width="12" height="10">
+      <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//CardAction"/>
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//CardAction"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagr
