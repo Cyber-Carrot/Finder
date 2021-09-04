@@ -1454,4 +1454,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTMx8AQzEeipl4o4g
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTMx8AQzEeipl4o4g2Bypw" name="Duration" tooltipText="" outgoingEdges="_xVVf8AQzEeipl4o4g2Bypw" incomingEdges="_xVOyQwQzEeipl4o4g2Bypw _xVTDsAQzEeipl4o4g2Bypw" width="12" height="10">
+      <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//Duration"/>
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//Duration"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTNZAAQzEeip
