@@ -1472,4 +1472,8 @@
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTOAEAQzEeipl4o4g2Bypw" name="TurnPhase" tooltipText="" incomingEdges="_xU_hsAQzEeipl4o4g2Bypw _xVVf8AQzEeipl4o4g2Bypw" width="12" height="10">
       <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//TurnPhase"/>
-      <semanticElements xmi:type="ecore:EClass" href="g
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//TurnPhase"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTOAEQQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="Liquid" foregroundColor="255,252,21
