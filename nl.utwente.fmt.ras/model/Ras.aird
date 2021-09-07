@@ -1489,4 +1489,7 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']"/>
       </ownedElements>
     </ownedDiagramElements>
-    <ownedDiagramElements
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTPOMAQzEeipl4o4g2Bypw" name="CardLocation" tooltipText="" incomingEdges="_xU9sgAQzEeipl4o4g2Bypw _xVG2cAQzEeipl4o4g2Bypw" width="12" height="10">
+      <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//CardLocation"/>
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//CardLocation"/>
+      <ownedStyle xmi:type="diagram:FlatCon
