@@ -1506,4 +1506,6 @@
       </ownedElements>
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUaS4AQzEeipl4o4g2Bypw" name="type : LocationType = Shared" tooltipText="">
         <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//CardLocation/type"/>
-        <semanticElements xmi:type="ecore:EAttribute" href=
+        <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//CardLocation/type"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUaS4QQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@su
