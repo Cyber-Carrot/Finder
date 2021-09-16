@@ -1512,4 +1512,7 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']"/>
       </ownedElements>
-      <ownedElements xmi:type="diagram:DNodeListEle
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUa58AQzEeipl4o4g2Bypw" name="visibility : LocationVisibility = Visible" tooltipText="">
+        <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//CardLocation/visibility"/>
+        <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//CardLocation/visibility"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUa58QQzEeipl4o4g2Bypw" labelAl
