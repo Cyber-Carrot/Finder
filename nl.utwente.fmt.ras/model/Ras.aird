@@ -1534,4 +1534,7 @@
         <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUcIEQQzEeipl4o4g2Bypw" labelAlignment="LEFT">
           <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']/@style"/>
         </ownedStyle>
-        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='E
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']"/>
+      </ownedElements>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTSRgAQzEeipl4o4g2Bypw" name="Expression" tooltipText="" incomingEdges="_xVROgAQzEeipl4o4g2Bypw _xVR1kwQzEeipl4o4g2Bypw _xVWuEAQzEeipl4o4g2Bypw _xVXVIAQzEeipl4o4g2Bypw _xVjiYAQzEeipl4o4g2Bypw _xVkwgAQzEeipl4o4g2Bypw _xVlXkAQz
