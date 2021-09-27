@@ -1537,4 +1537,7 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']"/>
       </ownedElements>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTSRgAQzEeipl4o4g2Bypw" name="Expression" tooltipText="" incomingEdges="_xVROgAQzEeipl4o4g2Bypw _xVR1kwQzEeipl4o4g2Bypw _xVWuEAQzEeipl4o4g2Bypw _xVXVIAQzEeipl4o4g2Bypw _xVjiYAQzEeipl4o4g2Bypw _xVkwgAQzEeipl4o4g2Bypw _xVlXkAQz
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTSRgAQzEeipl4o4g2Bypw" name="Expression" tooltipText="" incomingEdges="_xVROgAQzEeipl4o4g2Bypw _xVR1kwQzEeipl4o4g2Bypw _xVWuEAQzEeipl4o4g2Bypw _xVXVIAQzEeipl4o4g2Bypw _xVjiYAQzEeipl4o4g2Bypw _xVkwgAQzEeipl4o4g2Bypw _xVlXkAQzEeipl4o4g2Bypw _xVl-owQzEeipl4o4g2Bypw _xVmlswQzEeipl4o4g2Bypw _xVnz0wQzEeipl4o4g2Bypw _xVpB8AQzEeipl4o4g2Bypw _xVqQEAQzEeipl4o4g2Bypw _xVreMAQzEeipl4o4g2Bypw _xVtTYAQzEeipl4o4g2Bypw _xVt6cAQzEeipl4o4g2Bypw _xVvIkAQzEeipl4o4g2Bypw" width="12" height="10">
+      <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//Expression"/>
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//Expression"/>
+      <arrangeConstr
