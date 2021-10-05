@@ -1559,4 +1559,7 @@
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUqKgAQzEeipl4o4g2Bypw" name="from" visible="false" tooltipText="">
         <target xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//DrawPlayKeyword/from"/>
         <semanticElements xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//DrawPlayKeyword/from"/>
-        <ownedStyle xmi:type="diagram:BundledImag
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUqKgQQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']/@style"/>
+        </ownedStyle>
+        <actualMapp
