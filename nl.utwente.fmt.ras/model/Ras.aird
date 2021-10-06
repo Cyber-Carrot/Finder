@@ -1574,4 +1574,8 @@
       </ownedElements>
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTVU0AQzEeipl4o4g2Bypw" name="RuleKeyword" visible="false" tooltipText="" width="12" height="10">
-      <target xmi:type="ecore:EEnum" href="generated/
+      <target xmi:type="ecore:EEnum" href="generated/Ras.ecore#//RuleKeyword"/>
+      <semanticElements xmi:type="ecore:EEnum" href="generated/Ras.ecore#//RuleKeyword"/>
+      <graphicalFilters xmi:type="diagram:HideFilter" xmi:id="_z-kzFwQzEeipl4o4g2Bypw"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTVU0QQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputationExpression="1" borderColor="125,125,125" backgroundStyle="Liquid" foregroundColor="221,236,202">
+      
