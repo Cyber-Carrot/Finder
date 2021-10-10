@@ -1589,4 +1589,7 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']"/>
       </ownedElements>
-      <ownedElements xmi:t
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUrYoAQzEeipl4o4g2Bypw" name="add" visible="false" tooltipText="">
+        <target xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//RuleKeyword/add"/>
+        <semanticElements xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//RuleKeyword/add"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUrYoQQzEeipl4o4g2Bypw" labelAlignment="LEFT">
