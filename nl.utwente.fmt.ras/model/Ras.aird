@@ -1602,4 +1602,7 @@
       <target xmi:type="ecore:EEnum" href="generated/Ras.ecore#//ExpressionKeyword"/>
       <semanticElements xmi:type="ecore:EEnum" href="generated/Ras.ecore#//ExpressionKeyword"/>
       <graphicalFilters xmi:type="diagram:HideFilter" xmi:id="_z-kzFgQzEeipl4o4g2Bypw"/>
-      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTWi8AQzEeipl4o4g2Bypw" borderSize="1" borderSizeComp
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTWi8AQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputationExpression="1" borderColor="125,125,125" backgroundStyle="Liquid" foregroundColor="221,236,202">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@style"/>
+      </ownedStyle>
+      
