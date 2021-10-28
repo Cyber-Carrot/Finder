@@ -1641,4 +1641,6 @@
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']"/>
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUvDAAQzEeipl4o4g2Bypw" name="remove" visible="false" tooltipText="">
         <target xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//CardKeyword/remove"/>
-        <semanticElements xmi:type="ecore:EEnumLiteral" href="gener
+        <semanticElements xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//CardKeyword/remove"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUvqEAQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNo
