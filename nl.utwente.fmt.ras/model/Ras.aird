@@ -1666,4 +1666,7 @@
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUwRIQQzEeipl4o4g2Bypw" name="isnot" visible="false" tooltipText="">
         <target xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//CardKeyword/isnot"/>
         <semanticElements xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//CardKeyword/isnot"/>
-        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUwRIgQzEeipl4o4g2Bypw" labelAlignment="LEFT"
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUwRIgQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="pl
