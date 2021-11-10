@@ -1688,4 +1688,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']"/>
       </ownedElements>
     </ownedDiagramElements>
-    <ownedDiagramElements 
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTY_MAQzEeipl4o4g2Bypw" name="TurnKeyword" visible="false" tooltipText="" width="12" height="10">
+      <target xmi:type="ecore:EEnum" href="generated/Ras.ecore#//TurnKeyword"/>
+      <semanticElements xmi:type="ecore:EEnum" href="generated/Ras.ecore#//TurnKeyword"/>
+      <graphicalFilters xmi:type="diagram:HideFilter" xmi:id="_z-kzEQQzEeipl4o4g2Bypw"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTZm
