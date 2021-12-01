@@ -1752,4 +1752,7 @@
       <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTaNUQQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputationExpression="1" borderColor="125,125,125" backgroundStyle="Liquid" foregroundColor="221,236,202">
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@style"/>
       </ownedStyle>
-      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xU1JogQzEeipl4o4g2Bypw" name="take" visible="false" tooltipText="">
+        <target xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//PlayerKeyword/take"/>
+        <semanticElements xmi:type="ecore:EEnumLiteral" href="genera
