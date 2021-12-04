@@ -1761,4 +1761,8 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']"/>
       </ownedElements>
-      <ownedElements xmi:type="diagram:DNod
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xU1wsQQzEeipl4o4g2Bypw" name="me" visible="false" tooltipText="">
+        <target xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//PlayerKeyword/me"/>
+        <semanticElements xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//PlayerKeyword/me"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xU2XwAQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:
