@@ -1771,4 +1771,6 @@
       </ownedElements>
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xU2XwQQzEeipl4o4g2Bypw" name="other" visible="false" tooltipText="">
         <target xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//PlayerKeyword/other"/>
-        <semanticElements xmi:type="ecore:EEn
+        <semanticElements xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//PlayerKeyword/other"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xU2-0AQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@contai
