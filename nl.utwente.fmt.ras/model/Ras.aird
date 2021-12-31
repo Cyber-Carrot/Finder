@@ -1805,3 +1805,5 @@
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xU4M8AQzEeipl4o4g2Bypw" name="Visible" visible="false" tooltipText="">
         <target xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//LocationVisibility/Visible"/>
         <semanticElements xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//LocationVisibility/Visible"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xU4M8QQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral
