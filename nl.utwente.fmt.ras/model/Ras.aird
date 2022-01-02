@@ -1810,4 +1810,8 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']"/>
       </ownedElements>
-      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xU40AAQzEeipl4o4g2Bypw" name="Hidden" visible="false" tooltipText="">
+        <target xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//LocationVisibility/Hidden"/>
+        <semanticElements xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//LocationVisibility/Hidden"/>
+        <graphicalFilters xmi:type="diagram:HideFilter" xmi:id="_z-kzFQQzEeipl4o4g2Bypw"/>
+        <ownedStyle xmi:type="diagram:BundledImage" x
