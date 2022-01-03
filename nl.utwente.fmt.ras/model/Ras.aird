@@ -1820,4 +1820,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']"/>
       </ownedElements>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTcpkAQzEeipl4o4g2Bypw" name="CostType" visible="false" 
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTcpkAQzEeipl4o4g2Bypw" name="CostType" visible="false" tooltipText="" width="12" height="10">
+      <target xmi:type="ecore:EEnum" href="generated/Ras.ecore#//CostType"/>
+      <semanticElements xmi:type="ecore:EEnum" href="generated/Ras.ecore#//CostType"/>
+      <graphicalFilters xmi:type="diagram:HideFilter" xmi:id="_z-kzFAQzEeipl4o4g2Bypw"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTcpkQQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputatio
