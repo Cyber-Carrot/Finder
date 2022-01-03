@@ -1814,4 +1814,7 @@
         <target xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//LocationVisibility/Hidden"/>
         <semanticElements xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//LocationVisibility/Hidden"/>
         <graphicalFilters xmi:type="diagram:HideFilter" xmi:id="_z-kzFQQzEeipl4o4g2Bypw"/>
-        <ownedStyle xmi:type="diagram:BundledImage" x
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xU40AQQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="descript
