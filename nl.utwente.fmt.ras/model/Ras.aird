@@ -1830,4 +1830,6 @@
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']"/>
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xU40AgQzEeipl4o4g2Bypw" name="Live" visible="false" tooltipText="">
         <target xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//CostType/Live"/>
-   
+        <semanticElements xmi:type="ecore:EEnumLiteral" href="generated/Ras.ecore#//CostType/Live"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xU5bEAQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/
