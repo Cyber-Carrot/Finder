@@ -1846,4 +1846,7 @@
       </ownedElements>
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTd3sAQzEeipl4o4g2Bypw" name="LocationType" visible="false" tooltipText="" width="12" height="10">
-      <target xmi:type="ecore:EEnum" href="generated/Ras
+      <target xmi:type="ecore:EEnum" href="generated/Ras.ecore#//LocationType"/>
+      <semanticElements xmi:type="ecore:EEnum" href="generated/Ras.ecore#//LocationType"/>
+      <graphicalFilters xmi:type="diagram:HideFilter" xmi:id="_z-kzGQQzEeipl4o4g2Bypw"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTeewAQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputationExpression="1" borderColor="125,125,125" backgroundStyle="Liquid" foregr
