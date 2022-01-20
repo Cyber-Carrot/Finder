@@ -1870,4 +1870,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']"/>
       </ownedElements>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTfF0AQzE
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTfF0AQzEeipl4o4g2Bypw" name="TurnExpression" visible="false" tooltipText="" outgoingEdges="_xVjiYAQzEeipl4o4g2Bypw" width="12" height="10">
+      <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//TurnExpression"/>
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//TurnExpression"/>
+      <graphicalFilters xmi:type="diagram:HideFilter" xmi:id="_5Y9_MQQzEeipl4o4g2Bypw"/>
+      <ownedStyle xmi:t
