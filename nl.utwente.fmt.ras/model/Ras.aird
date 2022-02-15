@@ -1924,4 +1924,7 @@
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUfLYAQzEeipl4o4g2Bypw" name="keyword : CardKeyword = remove" visible="false" tooltipText="">
         <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//CardPropertyExpression/keyword"/>
         <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//CardPropertyExpression/keyword"/>
-        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUfLYQQzEeipl4o4g2Bypw" labelAlignment="LE
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUfLYQQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapp
