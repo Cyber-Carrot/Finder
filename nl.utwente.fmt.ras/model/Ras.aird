@@ -1930,4 +1930,7 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']"/>
       </ownedElements>
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUfycAQzEeipl4o4g2Bypw" name="value : EInt" visible="false" tooltipText="">
-        <t
+        <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//CardPropertyExpression/value"/>
+        <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//CardPropertyExpression/value"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUfycQQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.desi
