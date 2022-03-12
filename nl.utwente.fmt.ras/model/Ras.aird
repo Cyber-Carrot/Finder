@@ -1951,4 +1951,7 @@
       <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//OtherCardPropertyExpression"/>
       <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//OtherCardPropertyExpression"/>
       <graphicalFilters xmi:type="diagram:HideFilter" xmi:id="_3cAjQgQzEeipl4o4g2Bypw"/>
-      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTnBoAQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="Liquid" foregroundColor="255,25
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTnBoAQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="Liquid" foregroundColor="255,252,216">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platfo
