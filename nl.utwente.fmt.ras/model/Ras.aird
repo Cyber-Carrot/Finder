@@ -1965,4 +1965,6 @@
       </ownedElements>
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUhnoAQzEeipl4o4g2Bypw" name="value : EInt" visible="false" tooltipText="">
         <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//OtherCardPropertyExpression/value"/>
-        <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//Other
+        <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//OtherCardPropertyExpression/value"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUiOsAQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNod
