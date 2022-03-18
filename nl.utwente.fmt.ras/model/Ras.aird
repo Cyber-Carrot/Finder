@@ -1980,4 +1980,8 @@
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']"/>
-      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUi1wAQzEeipl4o4g2Bypw" name="keyword : Ca
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUi1wAQzEeipl4o4g2Bypw" name="keyword : CardKeyword = remove" visible="false" tooltipText="">
+        <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//OtherCardExpression/keyword"/>
+        <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//OtherCardExpression/keyword"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUi1wQQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDe
