@@ -2000,4 +2000,6 @@
     <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTr6IAQzEeipl4o4g2Bypw" name="PlayerExpression" visible="false" tooltipText="" outgoingEdges="_xVqQEAQzEeipl4o4g2Bypw" width="12" height="10">
       <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//PlayerExpression"/>
       <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//PlayerExpression"/>
-      <graphicalFilters x
+      <graphicalFilters xmi:type="diagram:HideFilter" xmi:id="_5Y9_NQQzEeipl4o4g2Bypw"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTr6IQQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="Liquid" foregroundColor="255,252,216">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints
