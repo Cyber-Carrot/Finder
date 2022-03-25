@@ -1996,4 +1996,8 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']"/>
       </ownedElements>
-    </owned
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTr6IAQzEeipl4o4g2Bypw" name="PlayerExpression" visible="false" tooltipText="" outgoingEdges="_xVqQEAQzEeipl4o4g2Bypw" width="12" height="10">
+      <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//PlayerExpression"/>
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//PlayerExpression"/>
+      <graphicalFilters x
