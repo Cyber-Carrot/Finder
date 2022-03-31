@@ -2005,4 +2005,7 @@
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']"/>
-      <own
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUkD4AQzEeipl4o4g2Bypw" name="keyword : PlayerKeyword = take" visible="false" tooltipText="">
+        <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//PlayerExpression/keyword"/>
+        <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//PlayerExpression/keyword"/>
+        <ownedStyle xmi:type="diagram:BundledIm
