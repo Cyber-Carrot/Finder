@@ -2013,4 +2013,8 @@
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']"/>
       </ownedElements>
-      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUkq8QQzEeipl4o4g2Bypw" name="keyword2 : PlayerKeyword = t
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUkq8QQzEeipl4o4g2Bypw" name="keyword2 : PlayerKeyword = take" visible="false" tooltipText="">
+        <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//PlayerExpression/keyword2"/>
+        <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//PlayerExpression/keyword2"/>
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUkq8gQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/
