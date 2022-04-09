@@ -2032,4 +2032,7 @@
       <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUlSAgQzEeipl4o4g2Bypw" name="costtype : CostType = Live" visible="false" tooltipText="">
         <target xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//PlayerExpression/costtype"/>
         <semanticElements xmi:type="ecore:EAttribute" href="generated/Ras.ecore#//PlayerExpression/costtype"/>
-        <ownedStyle xmi:type="diagram:BundledImage" xmi:i
+        <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xUl5EAQzEeipl4o4g2Bypw" labelAlignment="LEFT">
+          <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeM
