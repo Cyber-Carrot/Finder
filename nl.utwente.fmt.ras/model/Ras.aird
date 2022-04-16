@@ -2038,4 +2038,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']"/>
       </ownedElements>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTshMAQzEeipl4o4g2Bypw" name="DrawExpression" visible="f
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTshMAQzEeipl4o4g2Bypw" name="DrawExpression" visible="false" tooltipText="" outgoingEdges="_xVreMAQzEeipl4o4g2Bypw" width="12" height="10">
+      <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//DrawExpression"/>
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//DrawExpression"/>
+      <graphicalFilters xmi:type="diagram:HideFilter" xmi:id="_5Y9_MgQzEeipl4o4g2Bypw"/>
+      <ownedStyle xmi:type="diagra
