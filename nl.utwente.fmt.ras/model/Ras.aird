@@ -2043,4 +2043,7 @@
       <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//DrawExpression"/>
       <graphicalFilters xmi:type="diagram:HideFilter" xmi:id="_5Y9_MgQzEeipl4o4g2Bypw"/>
       <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTtIQAQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="Liquid" foregroundColor="255,252,216">
-        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMa
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" xmi:id="_xUl5EQQzEeipl4o4g2Bypw" na
