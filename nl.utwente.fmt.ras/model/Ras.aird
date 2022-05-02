@@ -2056,4 +2056,7 @@
       </ownedElements>
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_xTtvUAQzEeipl4o4g2Bypw" name="PlayExpression" visible="false" tooltipText="" outgoingEdges="_xVtTYAQzEeipl4o4g2Bypw" width="12" height="10">
-      
+      <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//PlayExpression"/>
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//PlayExpression"/>
+      <graphicalFilters xmi:type="diagram:HideFilter" xmi:id="_5Y9_MwQzEeipl4o4g2Bypw"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_xTuWYAQzEeipl4o4g2Bypw" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="Liquid" foregrou
