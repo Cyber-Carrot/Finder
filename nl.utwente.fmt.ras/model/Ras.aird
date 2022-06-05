@@ -2098,4 +2098,8 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']"/>
       </ownedElements>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xU9sgAQzEeipl4o4g2Bypw" name="[0..*] locations" sourceNode="_x
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xU9sgAQzEeipl4o4g2Bypw" name="[0..*] locations" sourceNode="_xS-IcAQzEeipl4o4g2Bypw" targetNode="_xTPOMAQzEeipl4o4g2Bypw">
+      <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//Game/locations"/>
+      <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//Game/locations"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xU-6owQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhattan" strokeColor="0,0,0">
+        <
