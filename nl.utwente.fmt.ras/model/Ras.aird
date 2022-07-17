@@ -2165,4 +2165,9 @@
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVEaMAQzEeipl4o4g2Bypw" name="[0..1] setup" sourceNode="_xS-IcAQzEeipl4o4g2Bypw" targetNode="_xTAksAQzEeipl4o4g2Bypw">
       <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//Game/setup"/>
-      <semanticElements xmi:type="ecore:EReference
+      <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//Game/setup"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVEaMQQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhattan" strokeColor="0,0,0">
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVEaMgQzEeipl4o4g2Bypw" showIcon="false">
+          <customFeatures>labelSize</customFeatures>
+        </centerLabelStyle>
+     
