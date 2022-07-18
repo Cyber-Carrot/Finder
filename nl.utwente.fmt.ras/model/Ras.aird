@@ -2178,4 +2178,8 @@
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVFBQAQzEeipl4o4g2Bypw" name="[0..*] players" sourceNode="_xTAksAQzEeipl4o4g2Bypw" targetNode="_xTDA8AQzEeipl4o4g2Bypw">
       <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//Setup/players"/>
-      <semanticElements xmi:type="ecore:EReference" href="g
+      <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//Setup/players"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVFBQQQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhattan" strokeColor="0,0,0">
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVFBQgQzEeipl4o4g2Bypw" showIcon="false">
+          <customFeatures>labelSize</customFeatures>
+        </cen
