@@ -2206,4 +2206,11 @@
       <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//InitialLocationState/loc"/>
       <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//InitialLocationState/loc"/>
       <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVG2cQQzEeipl4o4g2Bypw" routingStyle="manhattan" strokeColor="0,0,0">
-        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC_ER
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC_EReference']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVG2cgQzEeipl4o4g2Bypw" showIcon="false">
+          <customFeatures>labelSize</customFeatures>
+        </centerLabelStyle>
+        <endLabelStyle xmi:type="diagram:EndLabelStyle" xmi:id="_xVG2cwQzEeipl4o4g2Bypw" showIcon="false" labelColor="39,76,114">
+          <customFeatures>labelSize</customFeatures>
+        </endLabelStyle>
+      </ownedSty
