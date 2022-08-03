@@ -2220,4 +2220,8 @@
       <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//InitialLocationState/cards"/>
       <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//InitialLocationState/cards"/>
       <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVIEkAQzEeipl4o4g2Bypw" routingStyle="manhattan" strokeColor="0,0,0">
-        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.eclipse.em
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC_EReference']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVIEkQQzEeipl4o4g2Bypw" showIcon="false">
+          <customFeatures>labelSize</customFeatures>
+        </centerLabelStyle>
+        <endLabelStyle xmi:type="diagram:EndLa
