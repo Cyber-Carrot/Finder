@@ -2233,4 +2233,8 @@
     <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVIEkwQzEeipl4o4g2Bypw" name="[0..*] cards" sourceNode="_xTDA8AQzEeipl4o4g2Bypw" targetNode="_xTBy0AQzEeipl4o4g2Bypw">
       <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//Player/cards"/>
       <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//Player/cards"/>
-      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVIroA
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVIroAQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhattan" strokeColor="0,0,0">
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVIroQQzEeipl4o4g2Bypw" showIcon="false">
+          <customFeatures>labelSize</customFeatures>
+        </centerLabelStyle>
+        <endLabelStyle xmi:type="diagram:EndLabelStyle" xmi:id="_xVIrogQzEeipl4o4g2Bypw" sho
