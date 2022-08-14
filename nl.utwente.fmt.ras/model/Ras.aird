@@ -2243,4 +2243,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC_EReference']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVJSsAQzEeipl4o4g2Bypw" name="[0..*] cost" sourceNode="_xTDoAAQzEeipl4o4g2Bypw" targetNode="_xTIggAQzEeipl4o4g2Bypw">
+      <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//Card/cost"/>
+      <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//Card/cost"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVJSsQQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="Fil
