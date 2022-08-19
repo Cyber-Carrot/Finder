@@ -2256,4 +2256,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC_EReference']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVJ5wAQzEeipl4o4g2Bypw"
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVJ5wAQzEeipl4o4g2Bypw" name="[0..*] properties" sourceNode="_xTDoAAQzEeipl4o4g2Bypw" targetNode="_xTE2IAQzEeipl4o4g2Bypw">
+      <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//Card/properties"/>
+      <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//Card/properties"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVKg0AQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhattan
