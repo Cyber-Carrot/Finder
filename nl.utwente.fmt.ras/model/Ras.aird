@@ -2259,4 +2259,11 @@
     <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVJ5wAQzEeipl4o4g2Bypw" name="[0..*] properties" sourceNode="_xTDoAAQzEeipl4o4g2Bypw" targetNode="_xTE2IAQzEeipl4o4g2Bypw">
       <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//Card/properties"/>
       <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//Card/properties"/>
-      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVKg0AQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhattan
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVKg0AQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhattan" strokeColor="0,0,0">
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVKg0QQzEeipl4o4g2Bypw" showIcon="false">
+          <customFeatures>labelSize</customFeatures>
+        </centerLabelStyle>
+        <endLabelStyle xmi:type="diagram:EndLabelStyle" xmi:id="_xVKg0gQzEeipl4o4g2Bypw" showIcon="false" labelColor="39,76,114">
+          <customFeatures>labelSize</customFeatures>
+        </endLabelStyle>
+      </own
