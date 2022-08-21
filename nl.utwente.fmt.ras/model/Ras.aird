@@ -2266,4 +2266,8 @@
         <endLabelStyle xmi:type="diagram:EndLabelStyle" xmi:id="_xVKg0gQzEeipl4o4g2Bypw" showIcon="false" labelColor="39,76,114">
           <customFeatures>labelSize</customFeatures>
         </endLabelStyle>
-      </own
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC_EReference']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVKg0wQzEeipl4o4g2Bypw" name="[0..*] rules" sourceNode="_xTDoAAQzEeipl4o4g2Bypw" targetNode="_xTHSYAQzEeipl4o4g2Bypw">
+ 
