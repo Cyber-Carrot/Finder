@@ -2273,4 +2273,11 @@
       <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//Card/rules"/>
       <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//Card/rules"/>
       <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVLH4AQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhattan" strokeColor="0,0,0">
-        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id=
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVLH4QQzEeipl4o4g2Bypw" showIcon="false">
+          <customFeatures>labelSize</customFeatures>
+        </centerLabelStyle>
+        <endLabelStyle xmi:type="diagram:EndLabelStyle" xmi:id="_xVLH4gQzEeipl4o4g2Bypw" showIcon="false" labelColor="39,76,114">
+          <customFeatures>labelSize</customFeatures>
+        </endLabelStyle>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.eclipse.emf.ec
