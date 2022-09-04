@@ -2325,4 +2325,8 @@
     <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVOLMwQzEeipl4o4g2Bypw" name="[0..*] requirements" sourceNode="_xTHSYAQzEeipl4o4g2Bypw" targetNode="_xTQcUAQzEeipl4o4g2Bypw">
       <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//CardRule/requirements"/>
       <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//CardRule/requirements"/>
-      <ownedStyle xmi:type="diagra
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVOyQAQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhattan" strokeColor="0,0,0">
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVOyQQQzEeipl4o4g2Bypw" showIcon="false">
+          <customFeatures>labelSize</customFeatures>
+        </centerLabelStyle>
+        <endLabelStyle xmi:type="diagram:EndLabelStyle" x
