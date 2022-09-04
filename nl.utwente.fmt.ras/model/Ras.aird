@@ -2312,4 +2312,8 @@
       <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//CardProperty/type"/>
       <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//CardProperty/type"/>
       <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVOLMAQzEeipl4o4g2Bypw" routingStyle="manhattan" strokeColor="0,0,0">
-        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[na
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC_EReference']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVOLMQQzEeipl4o4g2Bypw" showIcon="false">
+          <customFeatures>labelSize</customFeatures>
+        </centerLabelStyle>
+        <endLabelStyle xmi:type="diagram:EndLabelStyle" xmi:id="_xVOLMgQzEeipl4o4g2Bypw" showIcon="false" labelColo
