@@ -2351,4 +2351,6 @@
     <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVPZUwQzEeipl4o4g2Bypw" name="[0..1] card" sourceNode="_xTIggAQzEeipl4o4g2Bypw" targetNode="_xTDoAAQzEeipl4o4g2Bypw">
       <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//Cost/card"/>
       <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//Cost/card"/>
-      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVQAYAQzEeipl4
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVQAYAQzEeipl4o4g2Bypw" routingStyle="manhattan" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC_EReference']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVQAYQQzEeipl4o4g2Bypw" showIcon="fa
