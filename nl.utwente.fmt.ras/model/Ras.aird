@@ -2376,4 +2376,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC_EReference']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVROgAQzEeipl4o4g2Bypw" name="[0..*] requirements" sourceNode="_xTJuoAQzEeipl
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVROgAQzEeipl4o4g2Bypw" name="[0..*] requirements" sourceNode="_xTJuoAQzEeipl4o4g2Bypw" targetNode="_xTSRgAQzEeipl4o4g2Bypw">
+      <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//SideEffect/requirements"/>
+      <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//SideEffect/requirements"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVR1kAQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhatt
