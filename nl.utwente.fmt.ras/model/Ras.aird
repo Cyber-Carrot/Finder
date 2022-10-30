@@ -2442,4 +2442,7 @@
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC_EReference']"/>
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVVf8AQzEeipl4o4g2Bypw" name="[0..1] mode" sourceNode="_xTMx8AQzEeipl4o4g2Bypw" targetNode="_xTOAEAQzEeipl4o4g2Bypw">
-      <ta
+      <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//Duration/mode"/>
+      <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//Duration/mode"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVWHAAQzEeipl4o4g2Bypw" routingStyle="manhattan" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odes
