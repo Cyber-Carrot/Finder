@@ -2458,4 +2458,9 @@
     <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVWuEAQzEeipl4o4g2Bypw" name="[0..1] left" sourceNode="_xTQcUAQzEeipl4o4g2Bypw" targetNode="_xTSRgAQzEeipl4o4g2Bypw">
       <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//ExpressionBlock/left"/>
       <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//ExpressionBlock/left"/>
-      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVWuEQQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVWuEQQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhattan" strokeColor="0,0,0">
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVWuEgQzEeipl4o4g2Bypw" showIcon="false">
+          <customFeatures>labelSize</customFeatures>
+        </centerLabelStyle>
+        <endLabelStyle xmi:type="diagram:EndLabelStyle" xmi:id="_xVWuEwQzEeipl4o4g2Bypw" showIcon="false" labelColor="39,76,114">
+          <cust
