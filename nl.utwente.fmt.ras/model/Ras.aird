@@ -2484,4 +2484,12 @@
     <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVYjQAQzEeipl4o4g2Bypw" name="[0..1] or" sourceNode="_xTQcUAQzEeipl4o4g2Bypw" targetNode="_xTQcUAQzEeipl4o4g2Bypw">
       <target xmi:type="ecore:EReference" href="generated/Ras.ecore#//ExpressionBlock/or"/>
       <semanticElements xmi:type="ecore:EReference" href="generated/Ras.ecore#//ExpressionBlock/or"/>
-      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVZKUAQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhattan" strokeColor=
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVZKUAQzEeipl4o4g2Bypw" description="_xU-6oAQzEeipl4o4g2Bypw" sourceArrow="FillDiamond" routingStyle="manhattan" strokeColor="0,0,0">
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVZKUQQzEeipl4o4g2Bypw" showIcon="false">
+          <customFeatures>labelSize</customFeatures>
+        </centerLabelStyle>
+        <endLabelStyle xmi:type="diagram:EndLabelStyle" xmi:id="_xVZKUgQzEeipl4o4g2Bypw" showIcon="false" labelColor="39,76,114">
+          <customFeatures>labelSize</customFeatures>
+        </endLabelStyle>
+      </ownedStyle>
+      <actualMapping xm
