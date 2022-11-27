@@ -2492,4 +2492,6 @@
           <customFeatures>labelSize</customFeatures>
         </endLabelStyle>
       </ownedStyle>
-      <actualMapping xm
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC_EReference']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVjiYAQzEeipl4o4g2Bypw" visible="false" sourceNode="_xTfF0AQzEeipl4o4g2Bypw" targetNode="_xTSRgAQzEeipl4o
