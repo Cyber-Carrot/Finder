@@ -2521,4 +2521,7 @@
     <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVlXkAQzEeipl4o4g2Bypw" visible="false" sourceNode="_xTiJIAQzEeipl4o4g2Bypw" targetNode="_xTSRgAQzEeipl4o4g2Bypw">
       <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//RuleExpression"/>
       <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//RuleExpression"/>
-      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVl-oAQzEeipl4o4g2Bypw" targetArrow="InputClosedAr
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVl-oAQzEeipl4o4g2Bypw" targetArrow="InputClosedArrow" routingStyle="tree">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC%20ESupertypes']/@style"/>
+        <beginLabelStyle xmi:type="diagram:BeginLabelStyle" xmi:id="_xVl-oQQzEeipl4o4g2Bypw" showIcon="false">
+          <labelFormat>ita
