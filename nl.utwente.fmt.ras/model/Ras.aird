@@ -2546,4 +2546,8 @@
       <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//LocationCardExpression"/>
       <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//LocationCardExpression"/>
       <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVnz0AQzEeipl4o4g2Bypw" targetArrow="InputClosedArrow" routingStyle="tree">
-        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.desi
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC%20ESupertypes']/@style"/>
+        <beginLabelStyle xmi:type="diagram:BeginLabelStyle" xmi:id="_xVnz0QQzEeipl4o4g2Bypw" showIcon="false">
+          <labelFormat>italic</labelFormat>
+        </beginLabelStyle>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVnz0gQzEeipl4o4g2Bypw" show
