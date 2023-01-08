@@ -2569,4 +2569,6 @@
     <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVpB8AQzEeipl4o4g2Bypw" visible="false" sourceNode="_xTo20AQzEeipl4o4g2Bypw" targetNode="_xTSRgAQzEeipl4o4g2Bypw">
       <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//OtherCardExpression"/>
       <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//OtherCardExpression"/>
-      <ownedStyle x
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVppAAQzEeipl4o4g2Bypw" targetArrow="InputClosedArrow" routingStyle="tree">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC%20ESupertypes']/@style"/>
+        <beginLabelStyle xmi:type="diagram:Be
