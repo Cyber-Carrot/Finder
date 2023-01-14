@@ -2580,3 +2580,6 @@
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVqQEAQzEeipl4o4g2Bypw" visible="false" sourceNode="_xTr6IAQzEeipl4o4g2Bypw" targetNode="_xTSRgAQzEeipl4o4g2Bypw">
       <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//PlayerExpression"/>
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//PlayerExpression"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVq3IAQzEeipl4o4g2Bypw" targetArrow="InputClosedArrow" routingStyle="tree">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[nam
