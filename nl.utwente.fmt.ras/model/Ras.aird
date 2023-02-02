@@ -2622,4 +2622,8 @@
         <beginLabelStyle xmi:type="diagram:BeginLabelStyle" xmi:id="_xVt6cgQzEeipl4o4g2Bypw" showIcon="false">
           <labelFormat>italic</labelFormat>
         </beginLabelStyle>
-    
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xVt6cwQzEeipl4o4g2Bypw" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC%20ESupertypes']"/>
+    </ownedDiagramElements>
+    <owned
