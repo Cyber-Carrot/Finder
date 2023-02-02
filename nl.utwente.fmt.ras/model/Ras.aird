@@ -2626,4 +2626,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@edgeMappings[name='EC%20ESupertypes']"/>
     </ownedDiagramElements>
-    <owned
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xVvIkAQzEeipl4o4g2Bypw" visible="false" sourceNode="_xTwLkAQzEeipl4o4g2Bypw" targetNode="_xTSRgAQzEeipl4o4g2Bypw">
+      <target xmi:type="ecore:EClass" href="generated/Ras.ecore#//ValueExpression"/>
+      <semanticElements xmi:type="ecore:EClass" href="generated/Ras.ecore#//ValueExpression"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xVvIkQQzEeipl4o4g2Bypw" tar
