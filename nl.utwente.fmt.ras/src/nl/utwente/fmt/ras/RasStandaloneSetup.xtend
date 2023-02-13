@@ -10,4 +10,6 @@ package nl.utwente.fmt.ras
 class RasStandaloneSetup extends RasStandaloneSetupGenerated {
 
 	def static void doSetup() {
-		n
+		new RasStandaloneSetup().createInjectorAndDoEMFRegistration()
+	}
+}
