@@ -5,4 +5,7 @@ package nl.utwente.fmt.ras
 
 
 /**
- * Use this
+ * Use this class to register components to be used at runtime / without the Equinox extension registry.
+ */
+class RasRuntimeModule extends AbstractRasRuntimeModule {
+}
