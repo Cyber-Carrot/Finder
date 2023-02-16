@@ -25,4 +25,32 @@ public class Location {
 		this.loc = loc;
 	}
 
-	public vo
+	public void addCards(List<Card> cards) {
+		this.cards.addAll(cards);
+	}
+	
+	public void shuffle() {
+		Collections.shuffle(this.cards);
+	}
+
+	public void addCard(Card c) {
+		this.cards.add(c);
+	}
+
+	public boolean hasCards() {
+		return this.cards != null && !this.cards.isEmpty();
+	}
+
+	public boolean hasCard() {
+		return false;
+	}
+
+	public List<Card> getCards() {
+		return cards;
+	}
+
+	public Card takeCard() {
+		return cards.get(cards.size() - 1);
+	}
+
+	publi
