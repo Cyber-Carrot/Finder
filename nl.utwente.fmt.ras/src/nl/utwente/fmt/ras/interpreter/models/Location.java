@@ -69,4 +69,12 @@ public class Location {
 		
 		if (loc.getVisibility().equals(LocationVisibility.VISIBLE) && cards != null) {
 			result.append("{ ");
-			for (Card
+			for (Card c : cards) {
+				result.append(c.getName() + " ");
+			}
+			result.append(" } ");
+		}
+		return result.toString();
+	}
+
+}
