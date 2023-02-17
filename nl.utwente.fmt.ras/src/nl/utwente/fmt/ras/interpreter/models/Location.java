@@ -53,4 +53,20 @@ public class Location {
 		return cards.get(cards.size() - 1);
 	}
 
-	publi
+	public void removeCard(Card c) {
+		cards.remove(c);
+	}
+
+	public boolean is(String name) {
+		return loc.getName().toLowerCase().equals(name.toLowerCase());
+	}
+
+	@Override
+	public String toString() {
+		StringBuffer result = new StringBuffer();
+		result.append(loc.getName() + " ");
+		result.append(cards.size() + " card(s) ");
+		
+		if (loc.getVisibility().equals(LocationVisibility.VISIBLE) && cards != null) {
+			result.append("{ ");
+			for (Card
