@@ -34,4 +34,21 @@ public class CollectionUtils {
 	}
 
 	public static void shuffle(EList<?> list) {
-		Random rnd = r
+		Random rnd = r;
+
+		if (rnd == null)
+			r = rnd = new Random(); // harmless race.
+
+		for (int i = list.size(); i > 1; i--)
+			list.move(i - 1, rnd.nextInt(i));
+	}
+
+	public static <T> List<T> union(List<T> list1, List<T> list2) {
+		Set<T> set = new HashSet<T>();
+
+		set.addAll(list1);
+		set.addAll(list2);
+
+		return new ArrayList<T>(set);
+	}
+}
