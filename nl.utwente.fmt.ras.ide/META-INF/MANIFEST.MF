@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: nl.utwente.fmt.ras.ide
+Bundle-Vendor:

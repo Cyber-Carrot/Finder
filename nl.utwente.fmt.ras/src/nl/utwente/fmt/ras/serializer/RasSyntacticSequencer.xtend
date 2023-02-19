@@ -4,5 +4,5 @@
 package nl.utwente.fmt.ras.serializer
 
 
-class RasSemanticSequencer extends AbstractRasSemanticSequencer {
+class RasSyntacticSequencer extends AbstractRasSyntacticSequencer {
 }
