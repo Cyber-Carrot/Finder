@@ -24,4 +24,5 @@ Import-Package: org.apache.log4j
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Export-Package:  nl.utwente.fmt.ras.ui.internal,
  nl.utwente.fmt.ras.ui.quickfix,
- nl.utwente.fmt.ras.ui.cont
+ nl.utwente.fmt.ras.ui.contentassist
+Bundle-Activator: nl.utwente.fmt.ras.ui.internal.RasActivator
