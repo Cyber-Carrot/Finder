@@ -15,4 +15,17 @@ import org.eclipse.xtext.xbase.ui.labeling.XbaseLabelProvider
 class RasLabelProvider extends XbaseLabelProvider {
 
 	@Inject
-	new(AdapterFact
+	new(AdapterFactoryLabelProvider delegate) {
+		super(delegate);
+	}
+
+	// Labels and icons can be computed like this:
+	
+//	def text(Greeting ele) {
+//		'A greeting to ' + ele.name
+//	}
+//
+//	def image(Greeting ele) {
+//		'Greeting.gif'
+//	}
+}
